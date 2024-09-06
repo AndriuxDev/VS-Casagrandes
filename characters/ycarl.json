@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "YCarl idle"
+		},
+		{
+			"offsets": [
+				71,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YCarl right"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YCarl down"
+		},
+		{
+			"offsets": [
+				58,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YCarl up"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YCarl left"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "YCarl miss-left"
+		},
+		{
+			"offsets": [
+				59,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "YCarl miss-up"
+		},
+		{
+			"offsets": [
+				22,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "YCarl miss-down"
+		},
+		{
+			"offsets": [
+				72,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "YCarl miss-right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "YCarl hey",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				0,
+				0,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YCarl",
+	"position": [
+		150,
+		180
+	],
+	"healthicon": "carlino-suit",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		73,
+		146
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

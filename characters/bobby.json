@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bobby IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bobby LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bobby DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bobby UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bobby RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Bobby SHOOT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bobby_Assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "bobby",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		174,
+		82
+	],
+	"camera_position": [
+		-30,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

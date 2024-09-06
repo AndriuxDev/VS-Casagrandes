@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sponge right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sponge idle"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sponge down"
+		},
+		{
+			"offsets": [
+				-22,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sponge up"
+		},
+		{
+			"offsets": [
+				-8,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Sponge miss-right"
+		},
+		{
+			"offsets": [
+				-5,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Sponge miss-down"
+		},
+		{
+			"offsets": [
+				-22,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Sponge miss-up"
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Sponge miss-left"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sponge left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sponge",
+	"position": [
+		100,
+		250
+	],
+	"healthicon": "sponge",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		225,
+		79
+	],
+	"camera_position": [
+		150,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

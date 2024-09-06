@@ -1,0 +1,277 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				28
+			],
+			"anim": "danceLeft",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-74,
+				29
+			],
+			"anim": "danceLeft-loop",
+			"fps": 24,
+			"name": "M Idle",
+			"indices": [
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				30
+			],
+			"anim": "danceRight",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				30
+			],
+			"anim": "danceRight-loop",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": [
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				30
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": [
+				22,
+				23
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				23
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "M Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 14,
+			"name": "M L xd",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "M Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				23
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 14,
+			"name": "M R xd",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				23
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "M Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				29
+			],
+			"anim": "singDOWN-alt",
+			"fps": 14,
+			"name": "M D xd",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				16
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "M Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				14
+			],
+			"anim": "singUP-alt",
+			"fps": 14,
+			"name": "M U xd",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/suicide (REANIMATED)",
+	"position": [
+		-80,
+		0
+	],
+	"healthicon": "mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-610,
+		-180
+	],
+	"sing_duration": 5.1,
+	"scale": 2.2
+}

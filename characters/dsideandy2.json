@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1,
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sagedriux idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sagedriux left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				2,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sagedriux down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sagedriux up"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sagedriux right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sagedriux",
+	"position": [
+		-140,
+		-180
+	],
+	"healthicon": "dsideandy2",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		116,
+		128
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

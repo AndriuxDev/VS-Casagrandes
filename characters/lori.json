@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lori idle",
+			"indices": [
+				4,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lori left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lori down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lori up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lori right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lori",
+	"position": [
+		10,
+		-30
+	],
+	"healthicon": "lori",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		223,
+		228
+	],
+	"camera_position": [
+		30,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

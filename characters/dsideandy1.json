@@ -1,0 +1,252 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sagedriux idle",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sagedriux left",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sagedriux down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sagedriux up",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sagedriux right",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			]
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "talkA",
+			"loop": false,
+			"name": "Sagedriux talkA"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "talkA-alt",
+			"loop": false,
+			"name": "Sagedriux talkA-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "talkO-alt",
+			"loop": false,
+			"name": "Sagedriux talkO-alt"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "talkO",
+			"loop": false,
+			"name": "Sagedriux talkO"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "Sagedriux scream"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				1,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "Sagedriux laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sagedriux",
+	"position": [
+		-140,
+		-180
+	],
+	"healthicon": "dsideandy",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		116,
+		128
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

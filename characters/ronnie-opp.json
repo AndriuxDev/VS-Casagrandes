@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ronnie IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ronnie DOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ronnie UP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ronnie RIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ronnie LEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ronalda_Assets",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "ronnie-anne",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		34,
+		109
+	],
+	"camera_position": [
+		80,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

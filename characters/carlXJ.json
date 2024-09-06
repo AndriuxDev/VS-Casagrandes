@@ -1,0 +1,308 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Carl RIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Carl RIGHTT MISS",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Carl IDLE",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Carl LEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Carl LEFTT MISS",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Carl DOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Carl DOWNN MISS",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Carl UP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				18
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Carl UPP MISS",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				40
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Carl DIES",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				23
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Carl Die Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				30
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Carl DIE Confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Carl_XJ_assets",
+	"position": [
+		50,
+		180
+	],
+	"healthicon": "carlino",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		0,
+		0
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lana idle"
+		},
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lana left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Lana down"
+		},
+		{
+			"offsets": [
+				6,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lana up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lana right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lana",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "lolana",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		103,
+		155
+	],
+	"camera_position": [
+		70,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

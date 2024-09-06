@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "OSWALD DIALOGUE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				300,
+				301,
+				302,
+				303,
+				304
+			],
+			"fps": 24,
+			"anim": "wait",
+			"loop": true,
+			"name": "OSWALD DIALOGUE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OSWALD IN DA END",
+	"position": [
+		-310,
+		90
+	],
+	"healthicon": "Doswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		85,
+		82
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

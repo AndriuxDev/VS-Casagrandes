@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				147,
+				326
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jenny left"
+		},
+		{
+			"offsets": [
+				-76,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jenny down"
+		},
+		{
+			"offsets": [
+				-21,
+				372
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JENNY UP"
+		},
+		{
+			"offsets": [
+				-75,
+				367
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jenny right"
+		},
+		{
+			"offsets": [
+				-74,
+				392
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "jenny idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boltcharter",
+	"position": [
+		-10,
+		330
+	],
+	"healthicon": "boltcatcher",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		216,
+		209
+	],
+	"camera_position": [
+		-100,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

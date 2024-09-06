@@ -1,0 +1,218 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mario idle"
+		},
+		{
+			"offsets": [
+				-34,
+				-10
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mario left"
+		},
+		{
+			"offsets": [
+				171,
+				-41
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mario right"
+		},
+		{
+			"offsets": [
+				20,
+				-85
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mario down"
+		},
+		{
+			"offsets": [
+				67,
+				7
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mario up"
+		},
+		{
+			"offsets": [
+				34,
+				-8
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Mario hey"
+		},
+		{
+			"offsets": [
+				7,
+				-15
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"fps": 24,
+			"anim": "peace",
+			"loop": false,
+			"name": "Mario yeah"
+		},
+		{
+			"offsets": [
+				20,
+				-84
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Mario miss-down"
+		},
+		{
+			"offsets": [
+				68,
+				6
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Mario miss-up"
+		},
+		{
+			"offsets": [
+				-34,
+				-10
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Mario miss-left"
+		},
+		{
+			"offsets": [
+				170,
+				-40
+			],
+			"indices": [
+				0,
+				0,
+				1,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Mario miss-right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario",
+	"position": [
+		30,
+		140
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		28,
+		36
+	],
+	"camera_position": [
+		170,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

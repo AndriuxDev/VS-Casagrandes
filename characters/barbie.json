@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Barbie idle"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Barbie left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Barbie down"
+		},
+		{
+			"offsets": [
+				79,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Barbie up"
+		},
+		{
+			"offsets": [
+				31,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Barbie right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Barbie",
+	"position": [
+		20,
+		40
+	],
+	"healthicon": "barbie",
+	"flip_x": false,
+	"healthbar_colors": [
+		247,
+		139,
+		216
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

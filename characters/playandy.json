@@ -1,0 +1,301 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Playandy Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Playandy Left"
+		},
+		{
+			"offsets": [
+				-36,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Playandy Downn Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Playandy Leftt Miss"
+		},
+		{
+			"offsets": [
+				-35,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Playandy Rightt Miss"
+		},
+		{
+			"offsets": [
+				-35,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Playandy Down"
+		},
+		{
+			"offsets": [
+				-36,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Playandy Up"
+		},
+		{
+			"offsets": [
+				-35,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Playandy Upp Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "Playandy Idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Playandy Hey"
+		},
+		{
+			"offsets": [
+				32,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Playandy DIES"
+		},
+		{
+			"offsets": [
+				38,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Playandy Die LOOP"
+		},
+		{
+			"offsets": [
+				38,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Playandy Die Confirm"
+		},
+		{
+			"offsets": [
+				-35,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Playandy Right"
+		},
+		{
+			"offsets": [
+				8,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Playandy  Dodge"
+		},
+		{
+			"offsets": [
+				347,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Playandy Attack"
+		},
+		{
+			"offsets": [
+				-36,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Playandy Down"
+		},
+		{
+			"offsets": [
+				-6,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Playandy Ouch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playable_Andy",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "andy",
+	"flip_x": true,
+	"healthbar_colors": [
+		233,
+		74,
+		92
+	],
+	"camera_position": [
+		100,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

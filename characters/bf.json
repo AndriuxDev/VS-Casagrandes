@@ -1,0 +1,239 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-10
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle Dance"
+		},
+		{
+			"offsets": [
+				128,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-26,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF UP NOTE"
+		},
+		{
+			"offsets": [
+				-41,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF RIGHT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFTT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF DOWNN NOTE MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF UPP NOTE MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF RIGHTT NOTE MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				45
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF HIT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				315,
+				358
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "BF ATTACK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				8
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "BF Pre attack",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				23,
+				45
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF HIT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				4
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BF DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				29
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF DIES",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				92,
+				-10
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF DIE LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-10
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF DIE CONFIRM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOYFRIEND",
+	"position": [
+		100,
+		140
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		260,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

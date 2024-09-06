@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sid IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sid LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sid UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sid DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sid RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sidney_assets",
+	"position": [
+		50,
+		310
+	],
+	"healthicon": "sid",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		136,
+		202
+	],
+	"camera_position": [
+		-40,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

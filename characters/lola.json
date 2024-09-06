@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lola idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lola left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lola down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lola up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lola right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lola",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "lolana",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		103,
+		155
+	],
+	"camera_position": [
+		30,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

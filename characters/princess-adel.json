@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Princess Adelaide idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Princess Adelaide left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Princess Adelaide down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Princess Adelaide up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Princess Adelaide right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Princess Adelaide",
+	"position": [
+		-20,
+		220
+	],
+	"healthicon": "princess-adel",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		1,
+		4
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

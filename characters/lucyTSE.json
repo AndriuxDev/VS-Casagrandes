@@ -1,0 +1,170 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lucy idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "Lucy up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "Lucy left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "Lucy down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "Lucy right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				4,
+				4,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Lucy left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				4,
+				4,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Lucy down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				4,
+				4,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Lucy up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				4,
+				4,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Lucy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lucy",
+	"position": [
+		0,
+		155
+	],
+	"healthicon": "lucy",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		102,
+		102
+	],
+	"camera_position": [
+		60,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.85
+}

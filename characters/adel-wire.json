@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Adelaide WIRE IDLE"
+		},
+		{
+			"offsets": [
+				44,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Adelaide WIRE UP"
+		},
+		{
+			"offsets": [
+				-10,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Adelaide WIRE RIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Adelaide WIRE DOWN"
+		},
+		{
+			"offsets": [
+				30,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Adelaide WIRE LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Adelaide_Wireframe",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "adel-w",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		195
+	],
+	"camera_position": [
+		100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

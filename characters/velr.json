@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RVelma idle"
+		},
+		{
+			"offsets": [
+				147,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RVelma left"
+		},
+		{
+			"offsets": [
+				89,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RVelma down"
+		},
+		{
+			"offsets": [
+				38,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RVelma up"
+		},
+		{
+			"offsets": [
+				5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RVelma right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RVelma",
+	"position": [
+		70,
+		80
+	],
+	"healthicon": "velmas",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		177,
+		23
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Adelaide UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Adelaide RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Adelaide DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Adelaide LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Adelaide IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Adelaide_assets",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "adelaide",
+	"flip_x": false,
+	"healthbar_colors": [
+		90,
+		54,
+		119
+	],
+	"camera_position": [
+		80,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.95
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CJ IDLE"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CJ LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CJ DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CJ UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CJ RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CJ_assets",
+	"position": [
+		-20,
+		50
+	],
+	"healthicon": "cj",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		214,
+		59
+	],
+	"camera_position": [
+		100,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

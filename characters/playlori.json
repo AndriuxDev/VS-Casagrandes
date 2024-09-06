@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lori Left Animation"
+		},
+		{
+			"offsets": [
+				50,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Lori Down Animation"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lori Right Animation"
+		},
+		{
+			"offsets": [
+				40,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lori UP Animation"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lori Right Animation",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		},
+		{
+			"offsets": [
+				-15,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Lori Error Left"
+		},
+		{
+			"offsets": [
+				40,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Lori Up Error"
+		},
+		{
+			"offsets": [
+				109,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Lori Right Error"
+		},
+		{
+			"offsets": [
+				49,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Lori Error Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lori_P1",
+	"position": [
+		200,
+		400
+	],
+	"healthicon": "lori",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		223,
+		228
+	],
+	"camera_position": [
+		250,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

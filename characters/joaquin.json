@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Joaquin Idle"
+		},
+		{
+			"offsets": [
+				26,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Joaquin Left"
+		},
+		{
+			"offsets": [
+				-5,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Joaquin Down"
+		},
+		{
+			"offsets": [
+				110,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Joaquin Up"
+		},
+		{
+			"offsets": [
+				-13,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Joaquin Right"
+		},
+		{
+			"offsets": [
+				0,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Joaquin Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Joaquin_Assets",
+	"position": [
+		60,
+		110
+	],
+	"healthicon": "joaquin",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		152,
+		89
+	],
+	"camera_position": [
+		-50,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

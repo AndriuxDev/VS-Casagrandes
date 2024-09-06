@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SBobby idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SBobby left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SBobby down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SBobby up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SBobby right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SBobby",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "puppet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		14
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
