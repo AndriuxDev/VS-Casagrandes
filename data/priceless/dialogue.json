@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "Whew! Man, talk about a rough day at the Mercado...",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "blank",
+			"text": "And this is Bobby. He's the best pricer in town. Surprised to know that?",
+			"boxState": "normal",
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie"
+		},
+		{
+			"expression": "pissed",
+			"text": "I bet he makes products cost real cheap!",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I sure do.",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "doubtful",
+			"text": "Although, to be honest, it's the first time I ever get to meet a gringo like you in here.",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "pissed",
+			"text": "No need to get so feisty, Bob!",
+			"boxState": "angry",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "It's 'Bobby', you lizard.",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "confused",
+			"text": "A manly battle? Man, was I ready for this.",
+			"boxState": "normal",
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "angry",
+			"text": "Anyway, since you want to get products the cheap way...",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "talk",
+			"text": "We'll make a duel...",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "happy",
+			"text": "...at the cost of your own life! Literally!",
+			"boxState": "normal",
+			"sound": "talk/bobbytalk",
+			"speed": 0.05,
+			"portrait": "bobby"
+		},
+		{
+			"expression": "happy",
+			"text": "That'd be 34.50!",
+			"boxState": "normal",
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl"
+		},
+		{
+			"expression": "shocked",
+			"text": "Lord have mercy...",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.075,
+			"portrait": "bf"
+		}
+	]
+}

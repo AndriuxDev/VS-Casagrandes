@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/cjtalk",
+			"speed": 0.05,
+			"portrait": "cj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, uhh... what's going on in here?"
+		},
+		{
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Last but not least, CJ. This guys loves\\npirates, just so you know."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "As in, software pirates or...?"
+		},
+		{
+			"sound": "talk/cjtalk",
+			"speed": 0.05,
+			"portrait": "cj",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "She means literal pirates, dirtbomb."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeesh, for a Down Syndrome kid like you, you seem quite competent."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Anyway, I hope you get ready 'cuz I'm\\ngoing to sweep the floor with ya!"
+		},
+		{
+			"sound": "talk/cjtalk",
+			"speed": 0.05,
+			"portrait": "cj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You'll never complete this last song on my watch!"
+		},
+		{
+			"sound": "talk/cjtalk",
+			"speed": 0.05,
+			"portrait": "cj",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "PREPARE FOR BATTLE!!!"
+		},
+		{
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ready, Beepy?"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...sure..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.135,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "...why not."
+		}
+	]
+}

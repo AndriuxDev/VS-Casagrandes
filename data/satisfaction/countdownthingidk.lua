@@ -1,0 +1,47 @@
+function onCreate() 
+	precacheSound('countdown')
+	precacheSound('countdownend')
+	precacheImage('three')
+	precacheImage('two')
+	precacheImage('one')
+	precacheImage('go-funkmix')
+	makeLuaSprite('three', 'three', 0, 0)
+	screenCenter('three', 'xy')
+	setObjectCamera('three', 'camHud')
+	makeLuaSprite('two', 'two', 0, 0)
+	screenCenter('two', 'xy')
+	setObjectCamera('two', 'camHud')
+	makeLuaSprite('one', 'one', 0, 0)
+	screenCenter('one', 'xy')
+	setObjectCamera('one', 'camHud')
+	makeLuaSprite('go', 'go-funkmix', 0, 0)
+	screenCenter('go', 'xy')
+	setObjectCamera('go', 'camHud')
+	setProperty('countdownReady.visible', false)
+	setProperty('countdownSet.visible', false)
+	setProperty('countdownGo.visible', false)
+	setProperty('introSoundsSuffix', '-NADALAVERGAEXACTO')
+end
+function onCountdownTick(counter)
+	if counter == 0 then
+		addLuaSprite('three')
+		playSound('countdown')
+	elseif counter == 1 then
+		removeLuaSprite('three', false)
+		addLuaSprite('two')
+		playSound('countdown')
+		setProperty('countdownReady.visible', false)		
+	elseif counter == 2 then
+		removeLuaSprite('two', false)
+		addLuaSprite('one')
+		playSound('countdown')
+		setProperty('countdownSet.visible', false)
+	elseif counter == 3 then
+		removeLuaSprite('one', false)
+		addLuaSprite('go')
+		playSound('countdownend')
+		setProperty('countdownGo.visible', false)
+	elseif counter == 4 then
+		removeLuaSprite('go')
+	end
+end

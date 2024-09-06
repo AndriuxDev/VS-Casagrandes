@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "Alright, outta the way, Ronnie. This kid's got a score to settle with this boy.",
+			"boxState": "normal",
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl"
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, Carl! Just in time!",
+			"boxState": "normal",
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie"
+		},
+		{
+			"expression": "confused",
+			"text": "Carl? Sounds like a plain old name to me.",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "Who're you calling viejo, buster? Look at you!",
+			"boxState": "normal",
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl"
+		},
+		{
+			"expression": "confused",
+			"text": "Now now, no need to fight...!",
+			"boxState": "normal",
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Sorry, GF...",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Say, that microphone of yours looks really nice.",
+			"boxState": "normal",
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl"
+		},
+		{
+			"expression": "happy",
+			"text": "Perhaps we could sing together!",
+			"boxState": "normal",
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl"
+		},
+		{
+			"expression": "excited",
+			"text": "Aww yeah, now we're playing with fire!",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "money",
+			"text": "This battle's about to get caliente!",
+			"boxState": "normal",
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl"
+		},
+		{
+			"expression": "confused",
+			"text": "Good thing it's not LITERAL fire, though...",
+			"boxState": "normal",
+			"sound": "talk/gftalk",
+			"speed": 0.07,
+			"portrait": "gf"
+		}
+	]
+}
