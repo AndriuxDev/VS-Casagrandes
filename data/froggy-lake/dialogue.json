@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "That was quite fun!",
+			"boxState": "normal",
+			"portrait": "sid",
+			"speed": 0.05,
+			"sound": "talk/sidtalk"
+		},
+		{
+			"expression": "excited",
+			"text": "It sure was!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "talk/bftalk"
+		},
+		{
+			"expression": "happy",
+			"text": "I bet Adelaide would like to join us!",
+			"boxState": "normal",
+			"portrait": "ronnie-p",
+			"speed": 0.05,
+			"sound": "talk/ronnietalk"
+		},
+		{
+			"expression": "stars",
+			"text": "Sounds great for me!",
+			"boxState": "normal",
+			"portrait": "adelaide",
+			"speed": 0.05,
+			"sound": "talk/adeltalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Just in time, Adelaide! Your song's the 2nd one in this week's soundtrack!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "talk/gftalk"
+		},
+		{
+			"expression": "worried",
+			"text": "It is?",
+			"boxState": "normal",
+			"sound": "talk/adeltalk",
+			"speed": 0.05,
+			"portrait": "adelaide"
+		},
+		{
+			"expression": "pissed",
+			"text": "Didn't you hear? This week's got an upgrade!",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "stars",
+			"text": "That's so cool!",
+			"boxState": "normal",
+			"sound": "talk/adeltalk",
+			"speed": 0.05,
+			"portrait": "adelaide"
+		},
+		{
+			"expression": "pissed",
+			"text": "With that announcement outta the way, ready to keep on rocking?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "talk/bftalk"
+		},
+		{
+			"expression": "worried",
+			"text": "Well, last time I sang this song, I thought it wouldn't fit entirely...",
+			"boxState": "normal",
+			"portrait": "adelaide",
+			"speed": 0.05,
+			"sound": "talk/adeltalk"
+		},
+		{
+			"expression": "happy",
+			"text": "But now that I think about it, I guess this song makes a good fit in the soundtrack!",
+			"boxState": "normal",
+			"portrait": "adelaide",
+			"speed": 0.05,
+			"sound": "talk/adeltalk"
+		},
+		{
+			"expression": "happy",
+			"text": "Hah, still confident and optimistic as usual. I love the sound of that!",
+			"boxState": "normal",
+			"portrait": "ronnie-p",
+			"speed": 0.05,
+			"sound": "talk/ronnietalk"
+		},
+		{
+			"expression": "excited",
+			"text": "Anyway, let's get this party movin'!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "talk/bftalk"
+		}
+	]
+}

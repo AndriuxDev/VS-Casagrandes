@@ -1,0 +1,221 @@
+{
+	"song": {
+		"events": [
+			[
+				19393.9393939394,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					]
+				]
+			],
+			[
+				29090.9090909091,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					]
+				]
+			],
+			[
+				49696.9696969697,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					]
+				]
+			],
+			[
+				59393.9393939395,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				70303.0303030304,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				84848.484848485,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				87272.7272727274,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				90909.0909090911,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-manifest"
+					]
+				]
+			],
+			[
+				103030.303030303,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				105454.545454546,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				107878.787878788,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-classic"
+					]
+				]
+			],
+			[
+				117575.757575758,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					]
+				]
+			],
+			[
+				127272.727272728,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					]
+				]
+			],
+			[
+				138181.818181818,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"gf"
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				152727.272727273,
+				[
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				155151.515151515,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				157575.757575758,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Hey!",
+						"both",
+						""
+					]
+				]
+			]
+		]
+	}
+}

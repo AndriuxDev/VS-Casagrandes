@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				10047.1698113208,
+				[
+					[
+						"Lyrics",
+						"Nobody cares about me...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				12948.1132075472,
+				[
+					[
+						"Lyrics",
+						"No one loves me...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Lyrics",
+						"Now...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				15990.5660377359,
+				[
+					[
+						"Lyrics",
+						"...you'll get that feeling too!",
+						"FF0000"
+					]
+				]
+			],
+			[
+				18113.2075471698,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					],
+					[
+						"Lyrics",
+						"",
+						"FF0000"
+					]
+				]
+			],
+			[
+				36226.4150943396,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54339.6226415094,
+				[
+					[
+						"Lyrics",
+						"It's been fun while it lasted...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				56603.7735849057,
+				[
+					[
+						"Lyrics",
+						"",
+						"FF0000"
+					],
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				74716.9811320755,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				92830.1886792452,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				110943.396226415,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				111226.41509434,
+				[
+					[
+						"Lyrics",
+						"Goodbye, The Boyfriend...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				113207.547169811,
+				[
+					[
+						"Lyrics",
+						"May we NEVER meet again...",
+						"FF0000"
+					]
+				]
+			],
+			[
+				116533.018867924,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						"0.5, 0.05"
+					],
+					[
+						"Lyrics",
+						"",
+						"FF0000"
+					]
+				]
+			]
+		]
+	}
+}

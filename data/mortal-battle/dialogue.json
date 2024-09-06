@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/lucytalk",
+			"speed": 0.2,
+			"portrait": "lucy",
+			"boxState": "normal",
+			"expression": "silent",
+			"text": "..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhh... The Girlfriend... what's this... emo... doing here?"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Not sure, The Boyfriend. That's Lucy, for sure. But from what I can tell..."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "This girl is quite the creepiest one of them all...!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Creepiest one of them all? Whaddya mean by that...?"
+		},
+		{
+			"sound": "talk/lucytalk",
+			"speed": 0.05,
+			"portrait": "lucy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This may be the last song you'll sing in your entire life, Boyfriend.XML..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "HOW DOES SHE KNOW MY REAL NAME?!"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Legends never die, they say..."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Show her who's dead tonight, dearie..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Whatever you say, babe. This girl is about to go six feet under!"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/loritalk",
+			"speed": 0.05,
+			"portrait": "lori",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "...and then I told him ''What? No way!''..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhh... hello???"
+		},
+		{
+			"sound": "talk/loritalk",
+			"speed": 0.05,
+			"portrait": "lori",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Oh, hang on, I'll call you back."
+		},
+		{
+			"sound": "talk/loritalk",
+			"speed": 0.05,
+			"portrait": "lori",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're the Boyfriend that Lincoln was talking about, right?"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And now you realized who I am...? How long it took you anyway?"
+		},
+		{
+			"sound": "talk/loritalk",
+			"speed": 0.05,
+			"portrait": "lori",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So like, are we going to sing or what? I have a date with Bobby in 15 minutes."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Won't even take 5 minutes, old hag!"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "The Boyfriend, try to be nicer, okay?"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Eh, not like she cares about singing anyway..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "Let's kick this party up a notch!"
+		}
+	]
+}

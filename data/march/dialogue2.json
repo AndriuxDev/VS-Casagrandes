@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Fine, you win this time! But--"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "bore",
+			"text": "Yeah, yeah, we know. Next time, I won't be so lucky."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "So, um, about the whole drama stuff... I now know who started all of this..."
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Who was it?"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "It was Breather... of all people..."
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Damn, how could that kid betray us?!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "You know him?"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Yep, that underage bastard just doesn't want to gimme a break!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "I know, right? He just doesn't want to give up!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxf",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "Say..."
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Hm?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.09,
+			"portrait": "andriuxf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "How about we pay him a little visit at the theatre?"
+		}
+	]
+}

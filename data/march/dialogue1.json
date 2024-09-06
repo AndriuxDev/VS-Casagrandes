@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Back again with another comeback, huh?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "bore",
+			"text": "Look, I'm no expert. But I don't wanna get into trouble. You know how life is going for me so far."
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Dude, I don't care what's life doing with you. I just wanna show you as the pedo you are to the public."
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "Okay, now what's all this ruckus?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "angry",
+			"expression": "pout",
+			"text": "XJ-9, just in time! This guy is trying to\\nframe me for something I didn't do!"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "Something you what?"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "btw",
+			"text": "Look, I got no time for a long talk, so how about to go down to the grain?"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "If you win, I'll let you go. But if I win, you'll be exposed on Twitter, and I'm not hesitating in doing that!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ah crap, and I thought I was the one with a fucked up mind...!"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Language, BF...!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sorry."
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "You ready to accept defeat, chucklenuts?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.5,
+			"portrait": "andriuxf",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "..."
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.15,
+			"portrait": "andriuxf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "I'm always ready."
+		}
+	]
+}
