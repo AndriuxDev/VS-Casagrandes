@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/sidtalk",
+			"speed": 0.05,
+			"portrait": "sid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ronnie, nice to see you here!"
+		},
+		{
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie-p",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eh, it was only a matter of time."
+		},
+		{
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie-p",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Besides, I had a lot of fun with this kid."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "And boy, was it wonderful!"
+		},
+		{
+			"sound": "talk/sidtalk",
+			"speed": 0.05,
+			"portrait": "sid",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "That's cool!"
+		},
+		{
+			"sound": "talk/sidtalk",
+			"speed": 0.05,
+			"portrait": "sid",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Say, care for stay for a batch of songs?"
+		},
+		{
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie-p",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'd love to!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I'll turn on the stereo!"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you gals ready?"
+		},
+		{
+			"sound": "talk/ronnietalk",
+			"speed": 0.05,
+			"portrait": "ronnie-p",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Yeah!"
+		},
+		{
+			"sound": "talk/sidtalk",
+			"speed": 0.05,
+			"portrait": "sid",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "So ready!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Then let's kick it!"
+		}
+	]
+}

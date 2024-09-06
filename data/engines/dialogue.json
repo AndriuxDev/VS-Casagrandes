@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After a long day, everyone went to go get some shuteye."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Everyone had nice dreams, but Adelaide/'s dream was one of the most classic ones."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The year was 1919. The war was over, and people were ready for the Roaring Twenties."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Princess Adelaide, as the royal member she is, brings a younger Carl into a music duel, unaware of what would happen."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Some could say this was not part of history, but when people are dreaming, fiction might turn into reality at some point."
+		}
+	]
+}

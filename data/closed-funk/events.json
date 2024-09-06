@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				54857.1428571429,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				73142.8571428572,
+				[
+					[
+						"Change Character",
+						"bf",
+						"playandy"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Change Character",
+						"bf",
+						"basil"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"playandy"
+					]
+				]
+			]
+		]
+	}
+}

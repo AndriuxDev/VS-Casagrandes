@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "btw",
+			"text": "Well done, Jas. You made it great there."
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "bore",
+			"text": "Suffice to say, I think we should wrap things up here, dontcha think?"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah... I guess so."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Everyone agreed with Girlfriend. Besides, the day is pretty much over at this point.*"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "I gotta say, this adventure sure was fun!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well, at least that's the end of it all, right...?"
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*And just when they thought the fun's over... a bunny appears from a near\\nprojector!*"
+		},
+		{
+			"sound": "talk/oswaldtalk",
+			"speed": 0.1,
+			"portrait": "oswald",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "...not quite."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yo, is that..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "OSWALD?!?!"
+		},
+		{
+			"sound": "talk/oswaldtalk",
+			"speed": 0.05,
+			"portrait": "oswald",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yup, the one and only!"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "What brings ya here anyway, ya old timey?"
+		},
+		{
+			"sound": "talk/oswaldtalk",
+			"speed": 0.05,
+			"portrait": "oswald",
+			"boxState": "angry",
+			"expression": "upset",
+			"text": "Okay, for one, I'm not THAT old."
+		},
+		{
+			"sound": "talk/oswaldtalk",
+			"speed": 0.05,
+			"portrait": "oswald",
+			"boxState": "normal",
+			"expression": "vacant",
+			"text": "Secondly, Wasteland is in BIG danger right now."
+		},
+		{
+			"sound": "talk/oswaldtalk",
+			"speed": 0.085,
+			"portrait": "oswald",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I think my friend Mickey has lost his marbles..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That old rodent? Lose his marbles? For what...?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriux",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Sounds like an opportunity to put him in his place, eh?"
+		},
+		{
+			"sound": "talk/oswaldtalk",
+			"speed": 0.05,
+			"portrait": "oswald",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "It sure does!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriux",
+			"boxState": "normal",
+			"expression": "annoy",
+			"text": "Aight, everyone, stay here. BF, GF and I will investigate in Wasteland. I bet he's heading to Dark Beauty Castle right now."
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.09,
+			"portrait": "andriux",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Oswald, I guess it's time we give him some payback."
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Meanwhile, at the Loud's house, there was some mysterious nightmares awaiting for Lori."
+		},
+		{
+			"sound": "talk/loritalk",
+			"speed": 0.085,
+			"portrait": "loriF",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "Bobby...? Is that you...?"
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bobby couldn't talk to her."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bobby couldn't even listen her."
+		},
+		{
+			"sound": "talk/loritalk",
+			"speed": 0.09,
+			"portrait": "loriF",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "You're not Bobby at all..."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He may not look like the authentic one... but he sure sounds like the authentic one."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lori, with all the courage she has left, holds her mic with strength, hoping to return his loved one back to normal..."
+		},
+		{
+			"sound": "talk/nartalk",
+			"speed": 0.08,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Little did she know, this was the diabolical impersonation of her own little demons..."
+		}
+	]
+}

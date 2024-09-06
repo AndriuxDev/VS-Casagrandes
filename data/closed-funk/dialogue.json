@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"expression": "angy",
+			"text": "This won't be the last time we meet with each other! YA HEAR ME?!",
+			"boxState": "angry",
+			"portrait": "breather",
+			"sound": "talk/johntalk",
+			"speed": 0.05
+		},
+		{
+			"expression": "unamused",
+			"text": "Yeaaaaaah... about that...",
+			"boxState": "normal",
+			"sound": "talk/joaqtalk",
+			"speed": 0.08,
+			"portrait": "joaquin"
+		},
+		{
+			"expression": "bruh",
+			"text": "...the cops are chasin' yer ass right now, so tough luck kiddo.",
+			"boxState": "normal",
+			"portrait": "joaquin",
+			"speed": 0.05,
+			"sound": "talk/joaqtalk"
+		},
+		{
+			"expression": "sad",
+			"text": "YOU HAVEN'T SEEN THE LAST OF ME! I SHALL RETURN!!!",
+			"boxState": "angry",
+			"portrait": "breather",
+			"speed": 0.05,
+			"sound": "talk/johntalk"
+		},
+		{
+			"expression": "talk",
+			"text": "*With John being captured by the police, our heroes finally got a breath of fresh air.*",
+			"boxState": "angry",
+			"sound": "talk/nartalk",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "confused",
+			"text": "Phew... thank goodness he's outta the way.",
+			"boxState": "normal",
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "unamused",
+			"text": "Anyway, I want you to meet a close friend of mine.",
+			"boxState": "normal",
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin"
+		},
+		{
+			"expression": "pout",
+			"text": "(Another enemy...? Seriously...?!)",
+			"boxState": "normal",
+			"sound": "talk/andytalk",
+			"speed": 0.09,
+			"portrait": "andriuxF"
+		},
+		{
+			"expression": "btw",
+			"text": "Everyone, meet Jasmine, aka MC Lilac.",
+			"boxState": "normal",
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin"
+		},
+		{
+			"expression": "talk",
+			"text": "S'up.",
+			"boxState": "normal",
+			"sound": "talk/jastalk",
+			"speed": 0.1,
+			"portrait": "jasmine"
+		},
+		{
+			"expression": "sweat",
+			"text": "So uh... is she a friend or a foe...?",
+			"boxState": "normal",
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxf"
+		},
+		{
+			"expression": "talk",
+			"text": "A friend, you weirdo. Besides, that body of yours seems quite ugly. Ever tried\\nexercising or something?",
+			"boxState": "normal",
+			"sound": "talk/jastalk",
+			"speed": 0.07,
+			"portrait": "jasmine"
+		},
+		{
+			"expression": "btw",
+			"text": "Lady, if you could, at least show some manners.",
+			"boxState": "normal",
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, all this meet n' greet session looks OK, but uh... why is she here?",
+			"boxState": "normal",
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "To kick the autistic kid's ass in a rap battle, duh.",
+			"boxState": "normal",
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "ugh",
+			"text": "That sharpshooter's correct. And since it's our first meeting...",
+			"boxState": "normal",
+			"sound": "talk/jastalk",
+			"speed": 0.05,
+			"portrait": "jasmine"
+		},
+		{
+			"expression": "pissed",
+			"text": "Guess that means you'll kill him on the spot, right?",
+			"boxState": "normal",
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "flirty",
+			"text": "I'd rather go easy on him.",
+			"boxState": "normal",
+			"sound": "talk/jastalk",
+			"speed": 0.05,
+			"portrait": "jasmine"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "talk/picotalk",
+			"speed": 0.5,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "That was uh... not the response I was hoping for.",
+			"boxState": "normal",
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "flirty",
+			"text": "I mean, despite having a bad bod, he might have some good vocal chords.",
+			"boxState": "normal",
+			"sound": "talk/jastalk",
+			"speed": 0.05,
+			"portrait": "jasmine"
+		},
+		{
+			"expression": "gun",
+			"text": "Eh, guess I'll have to judge that myself.",
+			"boxState": "normal",
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "smug",
+			"text": "So you want a fight! Alright, lady, you got one!",
+			"boxState": "normal",
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxf"
+		},
+		{
+			"expression": "flirty",
+			"text": "I hope you're ready for the show of your life...",
+			"boxState": "normal",
+			"sound": "talk/jastalk",
+			"speed": 0.05,
+			"portrait": "jasmine"
+		},
+		{
+			"expression": "flirty",
+			"text": "Cuz this show's ending with a BIG blast!!!",
+			"boxState": "angry",
+			"sound": "talk/jastalk",
+			"speed": 0.05,
+			"portrait": "jasmine"
+		}
+	]
+}
