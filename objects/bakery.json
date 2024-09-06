@@ -1,0 +1,9 @@
+{
+	"animated": false,
+	"x": -420,
+	"y": -420,
+	"tag": "bread",
+	"scalex": 1.5,
+	"scaley": 1.5,
+	"path": "CGstages/breadstage"
+}
