@@ -1,0 +1,59 @@
+{
+	"storyName": "Digital Circus Hellshow",
+	"difficulties": "Expert",
+	"hideFreeplay": false,
+	"weekBackground": "circus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekE",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Digital Mayhem",
+			"pomni",
+			[
+				255,
+				135,
+				135
+			]
+		],
+		[
+			"Unplanned Exit",
+			"jax",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"Glitchers",
+			"smg4",
+			[
+				86,
+				213,
+				253
+			]
+		],
+		[
+			"Difficult Powers",
+			"john",
+			[
+				26,
+				153,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "TADC Week",
+	"hiddenUntilUnlocked": false
+}

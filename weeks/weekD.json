@@ -1,0 +1,41 @@
+{
+	"storyName": "A Funk for All Seasons (Part 1)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "jenny",
+	"weekBefore": "weekS",
+	"freeplayColor": [
+		0,
+		255,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"XJ",
+			"jenny",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"March",
+			"joaquin",
+			[
+				56,
+				152,
+				89
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Vs XJ9"
+}

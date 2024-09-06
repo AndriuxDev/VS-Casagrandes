@@ -1,0 +1,42 @@
+{
+	"storyName": "A Funk for All Seasons (Part 2)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "breather",
+	"weekBefore": "weekX",
+	"freeplayColor": [
+		0,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Virgin Rage",
+			"john",
+			[
+				0,
+				107,
+				255
+			]
+
+		],
+		[
+		"Closed Funk",
+			"jasmine",
+			[
+				153,
+				0,
+				102
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Vs Breather",
+	"startUnlocked": true
+}

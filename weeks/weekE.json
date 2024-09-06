@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"Family Rivalry",
+			"tater",
+			[
+				204, 204, 0
+			]
+		],
+		[
+			"Wastelanders",
+			"mickey",
+			[
+				255, 0, 0
+			]
+		],
+		[
+			"Ready or Not",
+			"sponge",
+			[
+				255, 215, 0
+			]
+		],
+		[
+			"Toon Showdown",
+			"oswald",
+			[
+				0, 174, 239
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "disney",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Magical Demons",
+	"weekName": "Chang Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekX2",
+	"startUnlocked": true
+}

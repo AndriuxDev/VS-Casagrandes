@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Comradery",
+			"sid",
+			[
+				0,
+				180,
+				180
+			]
+		],
+		[
+			"Froggy Lake",
+			"adelaide",
+			[
+				75,
+				0,
+				153
+			]
+		],
+		[
+			"Engines",
+			"princess-adel",
+			[
+				201,
+				101,
+				173
+			]
+		],
+		[
+			"Fight or Flight",
+			"puppet",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "chang",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Chang Showdown",
+	"weekName": "Chang Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekL",
+	"startUnlocked": true
+}

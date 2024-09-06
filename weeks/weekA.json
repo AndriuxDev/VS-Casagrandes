@@ -1,0 +1,59 @@
+{
+	"storyName": "Funkin' A La Grande",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "casaG",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		155,
+		0,
+		153
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Skaterz",
+			"ronnie-anne",
+			[
+				155,
+				0,
+				153
+			]
+		],
+		[
+			"Sleek Style",
+			"carlino",
+			[
+				255,
+				113,
+				53
+			]
+		],
+		[
+			"Priceless",
+			"bobby",
+			[
+				120,
+				174,
+				82
+			]
+		],
+		[
+			"Seven Seas",
+			"cj",
+			[
+				255,
+				215,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Casagrande Week"
+}

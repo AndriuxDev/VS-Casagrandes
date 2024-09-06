@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Sibling Mania",
+			"lincoln",
+			[
+				255,
+				155,
+				0
+			]
+		],
+		[
+			"Lovely Call",
+			"lori",
+			[
+				140,
+				195,
+				255
+			]
+		],
+		[
+			"Yin-yang Clash",
+			"lolana",
+			[
+				255,
+				113,
+				173
+			]
+		],
+		[
+			"Mortal Battle",
+			"lucy",
+			[
+				40,
+				40,
+				60
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "loud",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "For Bros About to Funk",
+	"weekName": "Loud Week",
+	"freeplayColor": [
+		255,
+		155,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekC",
+	"startUnlocked": true
+}

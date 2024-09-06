@@ -1,0 +1,158 @@
+{
+	"songs": [
+		[
+			"Forestall Desire",
+			"leni",
+			[
+				44,
+				148,
+				131
+			]
+		],
+		[
+			"Too Slow Encore",
+			"lucy",
+			[
+				40,
+				40,
+				60
+			]
+		],
+		[
+			"Wrong Warp",
+			"linc-pixel",
+			[
+				158,
+				136,
+				38
+			]
+		],
+		[
+			"Good Morning",
+			"omori",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Untold Loneliness",
+			"dsideandy",
+			[
+				136,
+				116,
+				128
+			]
+		],
+		[
+			"Bready Steady Go",
+			"breads",
+			[
+				224,
+				148,
+				7
+			]
+		],
+		[
+			"Double Kill",
+			"velmas",
+			[
+				246,
+				182,
+				4
+			]
+		],
+		[
+			"Improbable Outset D-Side",
+			"barbie",
+			[
+				254,
+				149,
+				251
+			]
+		],
+		[
+			"Stronger Than You",
+			"spinel",
+			[
+				150,
+				5,
+				2
+			]
+		],
+		[
+			"Satisfaction",
+			"kim",
+			[
+				180,
+				50,
+				70
+			]
+		],
+		[
+			"Steamboat Ride",
+			"mickey",
+			[
+				255,
+				50,
+				50
+			]
+		],
+		[
+			"Thunderstorm",
+			"strong",
+			[
+				100,
+				20,
+				20
+			]
+		],
+		[
+			"No Party",
+			"pico",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"Final Round",
+			"loolalilu",
+			[
+				236,
+				60,
+				81
+			]
+		],
+		[
+			"Last Day",
+			"suicidriux",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "loud",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Freeplay Songs",
+	"weekName": "Week Freeplay",
+	"freeplayColor": [
+		44,
+		148,
+		131
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekL",
+	"startUnlocked": true
+}
