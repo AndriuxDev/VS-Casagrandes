@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TAGNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blueee0000" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="blueee0001" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="blueee0002" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="blueee0003" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="greennn0000" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="greennn0001" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="greennn0002" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="greennn0003" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="purple0000" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="purple0001" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="purple0002" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="purple0003" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="reddd0000" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="reddd0001" x="0" y="0" width="99" height="144"/>
+	<SubTexture name="reddd0002" x="99" y="0" width="99" height="144"/>
+	<SubTexture name="reddd0003" x="99" y="0" width="99" height="144"/>
+</TextureAtlas>
