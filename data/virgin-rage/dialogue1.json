@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"boxState": "normal",
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"text": "Oh, hey guys! Wanna hang over for a bit?"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Dude, I swear for God, I can't handle you anymore!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "Yeah, we neither!"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well, as I was saying--"
+		},
+		{
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"boxState": "normal",
+			"expression": "concern",
+			"text": "Hey, is that... Andriux?!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.09,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Ah, shit... he found me..."
+		},
+		{
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "Hey, uhh... can we be friends again...? Please...?"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "After you betrayed us?! No way, man!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Yeah, how could you betray not only me but my friends as well?!"
+		},
+		{
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "I just wanted to talk nicely with you! I'm still 22, if you're asking, thank you!"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "btw",
+			"text": "You're still lying, and we all can see that coming from you, idiot."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Talk about a parent and son fight. Doesn't that remind me of something...?"
+		},
+		{
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Eh, your guess is as good as mine, The Boyfriend."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Pico, what're you doing here?"
+		},
+		{
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Savin' your bacon..."
+		},
+		{
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And uh... hoping this minor doesn't blow you all up into purchasable meat."
+		},
+		{
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "Hey, that's a great idea! Let the ginger haired boy with PTSD blam up some meanies tonight!"
+		},
+		{
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "gun",
+			"text": "The only meanie I'm blammin' tonight is you, shorty."
+		},
+		{
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"boxState": "normal",
+			"expression": "concern",
+			"text": "So everyone is now against me, huh? Nothing that me and my friend Basil can't handle!"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxf",
+			"boxState": "angry",
+			"expression": "antsy",
+			"text": "No one touches my Basil, you bastard!"
+		},
+		{
+			"sound": "talk/johntalk",
+			"speed": 0.05,
+			"portrait": "breather",
+			"boxState": "angry",
+			"expression": "confident",
+			"text": "Alright, let's rock, you little cunts!"
+		},
+		{
+			"sound": "talk/picotalk",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(I seriously need to blam this guy's profile before he causes any more trouble...)"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "highschool",
+		"player1": "carl",
+		"player2": "jenny",
+		"player3": null,
+		"events": [
+			[
+				51428.5714285715,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jenny-boltcatcher"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "notesets/jenny",
+		"needsVoices": true,
+		"song": "XJ"
+	}
+}

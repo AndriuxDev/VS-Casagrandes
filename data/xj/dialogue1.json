@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Back at the school again? Yikes..."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Relax, The Boyfriend. Besides, this school seems quite friendly."
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "A",
+			"text": "And despite it being silent today, it surely is friendly nonetheless."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "XJ9! Nice to see you again!"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "B",
+			"text": "Nice to see you again, XML."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Err, name's Boyfriend. Got a static cling or something?"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "Ehh, sort of... I just needed some mind\\nrefreshing now that I've saw your face again."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "By the way, where's everyone?"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "They were occupying a lot of space, so they decided to take the day off."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Graphical issues much? Eh, at least we have the day all for ourselves."
+		},
+		{
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Ugh, enough yapping! This robot doesn't seem an amiga at all."
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "And who are you supposed to be...?"
+		},
+		{
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Carlino ''Carl'' Casagrande, at your service!"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "Listen, if you want a battle... you already got yourself one, kid!"
+		},
+		{
+			"sound": "talk/carltalk",
+			"speed": 0.05,
+			"portrait": "carl",
+			"boxState": "angry",
+			"expression": "money",
+			"text": "Andale! Let's do this!"
+		},
+		{
+			"sound": "talk/xjtalk",
+			"speed": 0.05,
+			"portrait": "jenyp",
+			"boxState": "normal",
+			"expression": "C",
+			"text": "And to think my mind was off for a second..."
+		}
+	]
+}

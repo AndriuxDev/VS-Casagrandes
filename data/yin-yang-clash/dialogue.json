@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/lanatalk",
+			"speed": 0.05,
+			"portrait": "lana",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Outta the way! Princess and engineer, coming through!"
+		},
+		{
+			"sound": "talk/linctalk",
+			"speed": 0.05,
+			"portrait": "lincoln",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "These are 2 of my 11 sisters, Lana and Lola."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I dig how Lana's looking, feels like she's been biting the dust!"
+		},
+		{
+			"sound": "talk/lanatalk",
+			"speed": 0.05,
+			"portrait": "lana",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Don't sweat it, kid. I've been in much dirtier situations than this one."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Not sure if I can say the same for the sissy girl over here..."
+		},
+		{
+			"sound": "talk/lolatalk",
+			"speed": 0.05,
+			"portrait": "lola",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Who are you calling ''sissy'', radiohead?!"
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Now now, let's not make up a fight. How about we solve our differences with a little song?"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Little wouldn't be the right term I'd use for these two."
+		},
+		{
+			"sound": "talk/lolatalk",
+			"speed": 0.035,
+			"portrait": "lola",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "OH, NOW YOU'VE DONE IT!"
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Uh oh..."
+		}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				90963.3718590076,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonexe"
+					]
+				]
+			],
+			[
+				93081.0189178311,
+				[
+					[
+						"Play Animation",
+						"iamgod",
+						"dad"
+					]
+				]
+			],
+			[
+				104052.44748926,
+				[
+					[
+						"Change Character",
+						"dad",
+						"lucyTSE"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				81454.5454545455,
+				[
+					[
+						"Change Character",
+						"bf",
+						"basil"
+					],
+					[
+						"Change Character",
+						"dad",
+						"bf-guitar"
+					]
+				]
+			],
+			[
+				97454.5454545455,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"8"
+					]
+				]
+			],
+			[
+				106181.818181818,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				154181.818181818,
+				[
+					[
+						"Change Character",
+						"dad",
+						"playandy-L"
+					],
+					[
+						"Change Character",
+						"bf",
+						"john"
+					]
+				]
+			]
+		]
+	}
+}
