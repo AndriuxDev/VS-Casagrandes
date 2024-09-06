@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lori.png"><SubTexture name="Lori down0000" x="0" y="0" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori down0001" x="474" y="0" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori down0002" x="948" y="0" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori down0003" x="1422" y="0" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori down0004" x="1896" y="0" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori idle0000" x="0" y="804" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori idle0001" x="474" y="804" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori idle0002" x="948" y="804" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori idle0003" x="1422" y="804" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori idle0004" x="1896" y="804" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori left0000" x="0" y="1608" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori left0001" x="474" y="1608" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori left0002" x="948" y="1608" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori left0003" x="1422" y="1608" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori left0004" x="1896" y="1608" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori right0000" x="0" y="2412" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori right0001" x="474" y="2412" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori right0002" x="948" y="2412" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori right0003" x="1422" y="2412" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori right0004" x="1896" y="2412" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori up0000" x="0" y="3216" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori up0001" x="474" y="3216" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori up0002" x="948" y="3216" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori up0003" x="1422" y="3216" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+<SubTexture name="Lori up0004" x="1896" y="3216" width="474" height="804" frameX="0" frameY="0" frameWidth="474" frameHeight="804" />
+</TextureAtlas>

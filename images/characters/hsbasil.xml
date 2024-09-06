@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hsbasil.png"><SubTexture name="hsbasil down0000" x="1414" y="2384" width="355" height="414" frameX="-170" frameY="-352" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil down0001" x="704" y="2384" width="354" height="429" frameX="-172" frameY="-337" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil down0002" x="352" y="2384" width="352" height="441" frameX="-175" frameY="-325" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil down0003" x="2712" y="0" width="351" height="454" frameX="-178" frameY="-312" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil down0004" x="2241" y="1834" width="353" height="463" frameX="-182" frameY="-302" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil down0005" x="1888" y="1834" width="353" height="469" frameX="-188" frameY="-296" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil left0000" x="1111" y="1834" width="390" height="543" frameX="-119" frameY="-224" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil left0001" x="729" y="1834" width="382" height="547" frameX="-128" frameY="-220" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil left0002" x="2337" y="0" width="375" height="550" frameX="-135" frameY="-217" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil left0003" x="2337" y="550" width="367" height="550" frameX="-144" frameY="-217" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil left0004" x="2337" y="1100" width="361" height="550" frameX="-150" frameY="-217" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil left0005" x="0" y="1834" width="357" height="550" frameX="-154" frameY="-217" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missdown0000" x="1058" y="2384" width="356" height="415" frameX="-169" frameY="-351" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missdown0001" x="0" y="2384" width="352" height="450" frameX="-176" frameY="-316" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missleft0000" x="1501" y="1834" width="387" height="540" frameX="-119" frameY="-228" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missleft0001" x="357" y="1834" width="372" height="548" frameX="-136" frameY="-219" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missright0000" x="1082" y="1249" width="287" height="579" frameX="-347" frameY="-190" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missright0001" x="0" y="1249" width="276" height="585" frameX="-330" frameY="-183" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missup0000" x="0" y="0" width="326" height="633" frameX="-275" frameY="-135" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil missup0001" x="324" y="633" width="326" height="615" frameX="-260" frameY="-153" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil idle0000" x="1301" y="0" width="247" height="588" frameX="-307" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil idle0001" x="2094" y="0" width="243" height="570" frameX="-291" frameY="-198" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil idle0002" x="1656" y="1249" width="242" height="577" frameX="-296" frameY="-191" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil idle0003" x="554" y="1249" width="245" height="582" frameX="-301" frameY="-186" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil idle0004" x="1301" y="588" width="247" height="584" frameX="-301" frameY="-184" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil idle0005" x="1548" y="588" width="247" height="587" frameX="-304" frameY="-181" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil right0000" x="1369" y="1249" width="287" height="578" frameX="-347" frameY="-190" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil right0001" x="799" y="1249" width="283" height="582" frameX="-339" frameY="-186" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil right0002" x="276" y="1249" width="278" height="585" frameX="-331" frameY="-183" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil right0003" x="1819" y="0" width="275" height="587" frameX="-324" frameY="-181" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil right0004" x="1548" y="0" width="271" height="588" frameX="-318" frameY="-180" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil right0005" x="1819" y="587" width="267" height="587" frameX="-312" frameY="-181" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil up0000" x="326" y="0" width="325" height="632" frameX="-280" frameY="-135" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil up0001" x="651" y="0" width="326" height="627" frameX="-275" frameY="-140" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil up0002" x="977" y="0" width="324" height="621" frameX="-273" frameY="-146" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil up0003" x="0" y="633" width="324" height="616" frameX="-269" frameY="-151" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil up0004" x="650" y="633" width="324" height="610" frameX="-265" frameY="-157" frameWidth="800" frameHeight="800" />
+<SubTexture name="hsbasil up0005" x="974" y="633" width="323" height="604" frameX="-262" frameY="-163" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

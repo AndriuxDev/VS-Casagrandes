@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Steven.png">
+    <SubTexture name="Steven down0000" x="1799" y="1683" width="301" height="536" frameX="-1" frameY="-20" frameWidth="302" frameHeight="556" />
+    <SubTexture name="Steven down0001" x="1499" y="1683" width="300" height="541" frameX="-1" frameY="-15" frameWidth="302" frameHeight="556" />
+    <SubTexture name="Steven down0002" x="595" y="1683" width="300" height="547" frameX="0" frameY="-9" frameWidth="302" frameHeight="556" />
+    <SubTexture name="Steven down0003" x="0" y="1683" width="298" height="551" frameX="0" frameY="-5" frameWidth="302" frameHeight="556" />
+    <SubTexture name="Steven down0004" x="366" y="1126" width="297" height="556" frameX="0" frameY="0" frameWidth="302" frameHeight="556" />
+    <SubTexture name="Steven idle0000" x="1195" y="1683" width="304" height="543" frameX="0" frameY="-13" frameWidth="304" frameHeight="556" />
+    <SubTexture name="Steven idle0001" x="895" y="1683" width="300" height="547" frameX="-3" frameY="-9" frameWidth="304" frameHeight="556" />
+    <SubTexture name="Steven idle0002" x="298" y="1683" width="297" height="550" frameX="-6" frameY="-6" frameWidth="304" frameHeight="556" />
+    <SubTexture name="Steven idle0003" x="2118" y="0" width="292" height="553" frameX="-10" frameY="-3" frameWidth="304" frameHeight="556" />
+    <SubTexture name="Steven idle0004" x="663" y="1126" width="287" height="556" frameX="-14" frameY="0" frameWidth="304" frameHeight="556" />
+    <SubTexture name="Steven left0000" x="0" y="569" width="319" height="557" frameX="0" frameY="0" frameWidth="330" frameHeight="557" />
+    <SubTexture name="Steven left0001" x="319" y="569" width="311" height="557" frameX="-11" frameY="0" frameWidth="330" frameHeight="557" />
+    <SubTexture name="Steven left0002" x="630" y="569" width="304" height="557" frameX="-21" frameY="0" frameWidth="330" frameHeight="557" />
+    <SubTexture name="Steven left0003" x="934" y="569" width="294" height="557" frameX="-33" frameY="0" frameWidth="330" frameHeight="557" />
+    <SubTexture name="Steven left0004" x="1476" y="0" width="286" height="557" frameX="-44" frameY="0" frameWidth="330" frameHeight="557" />
+    <SubTexture name="Steven right0000" x="950" y="1126" width="346" height="556" frameX="0" frameY="0" frameWidth="358" frameHeight="556" />
+    <SubTexture name="Steven right0001" x="1296" y="1126" width="356" height="556" frameX="-1" frameY="0" frameWidth="358" frameHeight="556" />
+    <SubTexture name="Steven right0002" x="1762" y="0" width="356" height="556" frameX="-2" frameY="0" frameWidth="358" frameHeight="556" />
+    <SubTexture name="Steven right0003" x="1762" y="556" width="345" height="556" frameX="-4" frameY="0" frameWidth="358" frameHeight="556" />
+    <SubTexture name="Steven right0004" x="1762" y="1112" width="325" height="556" frameX="-5" frameY="0" frameWidth="358" frameHeight="556" />
+    <SubTexture name="Steven up0000" x="0" y="0" width="371" height="569" frameX="0" frameY="0" frameWidth="371" frameHeight="569" />
+    <SubTexture name="Steven up0001" x="371" y="0" width="370" height="566" frameX="-1" frameY="-3" frameWidth="371" frameHeight="569" />
+    <SubTexture name="Steven up0002" x="741" y="0" width="368" height="563" frameX="-3" frameY="-6" frameWidth="371" frameHeight="569" />
+    <SubTexture name="Steven up0003" x="1109" y="0" width="367" height="560" frameX="-4" frameY="-9" frameWidth="371" frameHeight="569" />
+    <SubTexture name="Steven up0004" x="0" y="1126" width="366" height="557" frameX="-5" frameY="-12" frameWidth="371" frameHeight="569" />
+</TextureAtlas>

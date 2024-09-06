@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lucy.png">
+    <SubTexture name="Lucy idle0000" x="0" y="0" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy idle0001" x="340" y="0" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy idle0002" x="680" y="0" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy idle0003" x="1020" y="0" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy idle0004" x="1360" y="0" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy left0000" x="0" y="628" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy left0001" x="340" y="628" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy left0002" x="680" y="628" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy left0003" x="1020" y="628" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy left0004" x="1360" y="628" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy up0000" x="0" y="1256" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy up0001" x="340" y="1256" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy up0002" x="680" y="1256" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy up0003" x="1020" y="1256" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy up0004" x="1360" y="1256" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy down0000" x="0" y="1884" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy down0001" x="340" y="1884" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy down0002" x="680" y="1884" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy down0003" x="1020" y="1884" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy down0004" x="1360" y="1884" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy right0000" x="0" y="2512" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy right0001" x="340" y="2512" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy right0002" x="680" y="2512" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy right0003" x="1020" y="2512" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+    <SubTexture name="Lucy right0004" x="1360" y="2512" width="340" height="628" frameX="0" frameY="0" frameWidth="340" frameHeight="628" />
+</TextureAtlas>

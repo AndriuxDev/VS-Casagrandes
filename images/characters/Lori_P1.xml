@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lori_P1.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lori Down Animation0000" x="0" y="0" width="409" height="356" frameX="0" frameY="0" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0001" x="0" y="0" width="409" height="356" frameX="0" frameY="0" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0002" x="409" y="0" width="409" height="350" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0003" x="409" y="0" width="409" height="350" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0004" x="818" y="0" width="409" height="353" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0005" x="818" y="0" width="409" height="353" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0006" x="1227" y="0" width="409" height="353" frameX="0" frameY="-3" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0007" x="1227" y="0" width="409" height="353" frameX="0" frameY="-3" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0008" x="409" y="0" width="409" height="350" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0009" x="409" y="0" width="409" height="350" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0010" x="818" y="0" width="409" height="353" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0011" x="818" y="0" width="409" height="353" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0012" x="1227" y="0" width="409" height="353" frameX="0" frameY="-3" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0013" x="1227" y="0" width="409" height="353" frameX="0" frameY="-3" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Down Animation0014" x="409" y="0" width="409" height="350" frameX="0" frameY="-6" frameWidth="409" frameHeight="359"/>
+	<SubTexture name="Lori Error Down0000" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0001" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0002" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0003" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0004" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0005" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0006" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0007" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0008" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0009" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0010" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0011" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0012" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0013" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0014" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0015" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0016" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0017" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0018" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0019" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0020" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0021" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0022" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0023" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0024" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0025" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0026" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0027" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0028" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0029" x="1636" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Down0030" x="2045" y="0" width="409" height="355"/>
+	<SubTexture name="Lori Error Left0000" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0001" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0002" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0003" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0004" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0005" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0006" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0007" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0008" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0009" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0010" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0011" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0012" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0013" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0014" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0015" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0016" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0017" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0018" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0019" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0020" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0021" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0022" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0023" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0024" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0025" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0026" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0027" x="2909" y="0" width="458" height="429"/>
+	<SubTexture name="Lori Error Left0028" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Error Left0029" x="2454" y="0" width="455" height="429" frameX="0" frameY="0" frameWidth="458" frameHeight="429"/>
+	<SubTexture name="Lori Idle0000" x="3367" y="0" width="344" height="336"/>
+	<SubTexture name="Lori Idle0001" x="3367" y="0" width="344" height="336"/>
+	<SubTexture name="Lori Idle0002" x="3711" y="0" width="344" height="335" frameX="0" frameY="-1" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0003" x="3711" y="0" width="344" height="335" frameX="0" frameY="-1" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0004" x="0" y="429" width="344" height="335" frameX="0" frameY="-1" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0005" x="0" y="429" width="344" height="335" frameX="0" frameY="-1" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0006" x="344" y="429" width="344" height="334" frameX="0" frameY="-2" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0007" x="344" y="429" width="344" height="334" frameX="0" frameY="-2" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0008" x="688" y="429" width="344" height="333" frameX="0" frameY="-3" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0009" x="688" y="429" width="344" height="333" frameX="0" frameY="-3" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0010" x="1032" y="429" width="344" height="333" frameX="0" frameY="-3" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0011" x="1032" y="429" width="344" height="333" frameX="0" frameY="-3" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0012" x="344" y="429" width="344" height="334" frameX="0" frameY="-2" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0013" x="344" y="429" width="344" height="334" frameX="0" frameY="-2" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Idle0014" x="688" y="429" width="344" height="333" frameX="0" frameY="-3" frameWidth="344" frameHeight="336"/>
+	<SubTexture name="Lori Left Animation0000" x="1376" y="429" width="455" height="461" frameX="-7" frameY="0" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0001" x="1376" y="429" width="455" height="461" frameX="-7" frameY="0" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0002" x="1831" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0003" x="1831" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0004" x="2287" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0005" x="2287" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0006" x="2743" y="429" width="456" height="449" frameX="0" frameY="-12" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0007" x="2743" y="429" width="456" height="449" frameX="0" frameY="-12" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0008" x="1831" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0009" x="1831" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0010" x="2287" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0011" x="2287" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0012" x="2743" y="429" width="456" height="449" frameX="0" frameY="-12" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0013" x="2743" y="429" width="456" height="449" frameX="0" frameY="-12" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Left Animation0014" x="1831" y="429" width="456" height="446" frameX="0" frameY="-15" frameWidth="462" frameHeight="461"/>
+	<SubTexture name="Lori Right Animation0000" x="3199" y="429" width="425" height="443" frameX="0" frameY="0" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0001" x="3199" y="429" width="425" height="443" frameX="0" frameY="0" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0002" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0003" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0004" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0005" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0006" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0007" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0008" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0009" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0010" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0011" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0012" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0013" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0014" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0015" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0016" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0017" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0018" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0019" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0020" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0021" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0022" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0023" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0024" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0025" x="413" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0026" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0027" x="3624" y="429" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0028" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Animation0029" x="0" y="890" width="413" height="434" frameX="-16" frameY="-9" frameWidth="429" frameHeight="443"/>
+	<SubTexture name="Lori Right Error0000" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0001" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0002" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0003" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0004" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0005" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0006" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0007" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0008" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0009" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0010" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0011" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0012" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0013" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0014" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0015" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0016" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0017" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0018" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0019" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0020" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0021" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0022" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0023" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0024" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0025" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0026" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0027" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0028" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0029" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0030" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0031" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0032" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0033" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0034" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0035" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0036" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0037" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0038" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0039" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0040" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0041" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0042" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0043" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0044" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0045" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0046" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0047" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0048" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0049" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0050" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0051" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0052" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0053" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0054" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0055" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0056" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0057" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori Right Error0058" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0059" x="1251" y="890" width="433" height="454"/>
+	<SubTexture name="Lori Right Error0060" x="826" y="890" width="425" height="454" frameX="0" frameY="0" frameWidth="433" frameHeight="454"/>
+	<SubTexture name="Lori UP Animation0000" x="1684" y="890" width="414" height="496" frameX="0" frameY="-13" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0001" x="1684" y="890" width="414" height="496" frameX="0" frameY="-13" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0002" x="2098" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0003" x="2098" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0004" x="2512" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0005" x="2512" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0006" x="2926" y="890" width="414" height="508" frameX="0" frameY="0" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0007" x="2926" y="890" width="414" height="508" frameX="0" frameY="0" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0008" x="2098" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0009" x="2098" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0010" x="2512" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0011" x="2512" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0012" x="2926" y="890" width="414" height="508" frameX="0" frameY="0" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0013" x="2926" y="890" width="414" height="508" frameX="0" frameY="0" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori UP Animation0014" x="2098" y="890" width="414" height="505" frameX="0" frameY="-3" frameWidth="414" frameHeight="509"/>
+	<SubTexture name="Lori Up Error0000" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0001" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0002" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0003" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0004" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0005" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0006" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0007" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0008" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0009" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0010" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0011" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0012" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0013" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0014" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0015" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0016" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0017" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0018" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0019" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0020" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0021" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0022" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0023" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0024" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0025" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0026" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0027" x="0" y="1398" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0028" x="3340" y="890" width="414" height="495"/>
+	<SubTexture name="Lori Up Error0029" x="3340" y="890" width="414" height="495"/>
+</TextureAtlas>

@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ronalda_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ronnie DIE CONFIRM0000" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0001" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0002" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0003" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0004" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0005" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0006" x="521" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0007" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0008" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0009" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0010" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0011" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0012" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0013" x="521" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIE CONFIRM0014" x="0" y="0" width="521" height="810"/>
+	<SubTexture name="Ronnie DIES0000" x="1042" y="0" width="489" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0001" x="1531" y="0" width="485" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0002" x="2016" y="0" width="545" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0003" x="2561" y="0" width="585" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0004" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0005" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0006" x="3610" y="0" width="467" height="810" frameX="-55" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0007" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0008" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0009" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0010" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0011" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0012" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0013" x="3610" y="0" width="467" height="810" frameX="-55" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0014" x="3146" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0015" x="4077" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0016" x="4077" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0017" x="4077" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0018" x="4541" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0019" x="4541" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0020" x="5005" y="0" width="467" height="810" frameX="-55" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0021" x="5472" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0022" x="5936" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0023" x="5936" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0024" x="6400" y="0" width="464" height="810" frameX="-58" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0025" x="6864" y="0" width="520" height="822" frameX="-2" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0026" x="6864" y="0" width="520" height="822" frameX="-2" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0027" x="7384" y="0" width="517" height="816" frameX="-5" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0028" x="0" y="822" width="517" height="816" frameX="-5" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0029" x="517" y="822" width="522" height="810" frameX="0" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0030" x="517" y="822" width="522" height="810" frameX="0" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0031" x="1039" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0032" x="1039" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0033" x="1039" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0034" x="1560" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0035" x="2081" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0036" x="2602" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0037" x="2602" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0038" x="3123" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0039" x="3123" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0040" x="3644" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0041" x="4165" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0042" x="4686" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0043" x="4686" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0044" x="5207" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0045" x="5207" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0046" x="5728" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0047" x="5728" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0048" x="6249" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0049" x="6770" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0050" x="7291" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0051" x="7291" y="822" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0052" x="0" y="1638" width="663" height="1395" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0053" x="0" y="1638" width="663" height="1395" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0054" x="663" y="1638" width="663" height="1395" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0055" x="1326" y="1638" width="521" height="810" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0056" x="663" y="1638" width="663" height="1395" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DIES0057" x="663" y="1638" width="663" height="1395" frameX="-1" frameY="0" frameWidth="664" frameHeight="1395"/>
+	<SubTexture name="Ronnie DOWN0000" x="1847" y="1638" width="434" height="823"/>
+	<SubTexture name="Ronnie DOWN0001" x="1847" y="1638" width="434" height="823"/>
+	<SubTexture name="Ronnie DOWN0002" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0003" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0004" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0005" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0006" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0007" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0008" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0009" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0010" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0011" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0012" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0013" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWN0014" x="2281" y="1638" width="434" height="816" frameX="0" frameY="-7" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0000" x="1847" y="1638" width="434" height="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0001" x="2715" y="1638" width="434" height="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0002" x="2715" y="1638" width="434" height="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0003" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0004" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0005" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0006" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0007" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0008" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0009" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0010" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0011" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0012" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0013" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0014" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0015" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0016" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0017" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0018" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0019" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0020" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0021" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0022" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0023" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0024" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0025" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0026" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0027" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie DOWNN MISS0028" x="3149" y="1638" width="434" height="795" frameX="0" frameY="-27" frameWidth="434" frameHeight="823"/>
+	<SubTexture name="Ronnie Die LOOP0000" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0001" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0002" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0003" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0004" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0005" x="4625" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0006" x="5146" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0007" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0008" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0009" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0010" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0011" x="4625" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0012" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0013" x="5146" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0014" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0015" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0016" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0017" x="4625" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0018" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0019" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0020" x="5146" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0021" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0022" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0023" x="4625" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0024" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0025" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0026" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0027" x="5667" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0028" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0029" x="4625" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0030" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0031" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0032" x="3583" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie Die LOOP0033" x="4104" y="1638" width="521" height="810"/>
+	<SubTexture name="Ronnie IDLE0000" x="6188" y="1638" width="461" height="810" frameX="-4" frameY="-17" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0001" x="6188" y="1638" width="461" height="810" frameX="-4" frameY="-17" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0002" x="6649" y="1638" width="461" height="816" frameX="-4" frameY="-11" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0003" x="6649" y="1638" width="461" height="816" frameX="-4" frameY="-11" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0004" x="7110" y="1638" width="467" height="824" frameX="-4" frameY="-4" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0005" x="7110" y="1638" width="467" height="824" frameX="-4" frameY="-4" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0006" x="7577" y="1638" width="468" height="824" frameX="-3" frameY="-4" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0007" x="7577" y="1638" width="468" height="824" frameX="-3" frameY="-4" frameWidth="477" frameHeight="828"/>
+	<SubTexture name="Ronnie IDLE0008" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie IDLE0009" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie IDLE0010" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie IDLE0011" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie IDLE0012" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie IDLE0013" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie IDLE0014" x="0" y="3033" width="477" height="828"/>
+	<SubTexture name="Ronnie LEFT0000" x="477" y="3033" width="486" height="810"/>
+	<SubTexture name="Ronnie LEFT0001" x="477" y="3033" width="486" height="810"/>
+	<SubTexture name="Ronnie LEFT0002" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0003" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0004" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0005" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0006" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0007" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0008" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0009" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0010" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0011" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0012" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0013" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFT0014" x="963" y="3033" width="471" height="810" frameX="0" frameY="0" frameWidth="486" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0000" x="1434" y="3033" width="486" height="810" frameX="-7" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0001" x="1920" y="3033" width="486" height="810" frameX="-7" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0002" x="1920" y="3033" width="486" height="810" frameX="-7" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0003" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0004" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0005" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0006" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0007" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0008" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0009" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0010" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0011" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0012" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0013" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0014" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0015" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0016" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0017" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0018" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0019" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0020" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0021" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0022" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0023" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0024" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0025" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0026" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0027" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie LEFTT MISS0028" x="2406" y="3033" width="484" height="810" frameX="0" frameY="0" frameWidth="493" frameHeight="810"/>
+	<SubTexture name="Ronnie RIGHT0000" x="2890" y="3033" width="577" height="822" frameX="0" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0001" x="2890" y="3033" width="577" height="822" frameX="0" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0002" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0003" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0004" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0005" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0006" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0007" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0008" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0009" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0010" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0011" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0012" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0013" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHT0014" x="3467" y="3033" width="581" height="822" frameX="-8" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0000" x="2890" y="3033" width="577" height="822" frameX="0" frameY="0" frameWidth="589" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0001" x="4048" y="3033" width="577" height="822" frameX="0" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0002" x="4048" y="3033" width="577" height="822" frameX="0" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0003" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0004" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0005" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0006" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0007" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0008" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0009" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0010" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0011" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0012" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0013" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0014" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0015" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0016" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0017" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0018" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0019" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0020" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0021" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0022" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0023" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0024" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0025" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0026" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0027" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie RIGHTT MISS0028" x="4625" y="3033" width="580" height="822" frameX="-6" frameY="0" frameWidth="586" frameHeight="822"/>
+	<SubTexture name="Ronnie UP0000" x="5205" y="3033" width="534" height="803" frameX="0" frameY="-7" frameWidth="534" frameHeight="810"/>
+	<SubTexture name="Ronnie UP0001" x="5205" y="3033" width="534" height="803" frameX="0" frameY="-7" frameWidth="534" frameHeight="810"/>
+	<SubTexture name="Ronnie UP0002" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0003" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0004" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0005" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0006" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0007" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0008" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0009" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0010" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0011" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0012" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0013" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UP0014" x="5739" y="3033" width="534" height="810"/>
+	<SubTexture name="Ronnie UPP MISS0000" x="6273" y="3033" width="534" height="803" frameX="0" frameY="-17" frameWidth="534" frameHeight="820"/>
+	<SubTexture name="Ronnie UPP MISS0001" x="6807" y="3033" width="534" height="803" frameX="0" frameY="-17" frameWidth="534" frameHeight="820"/>
+	<SubTexture name="Ronnie UPP MISS0002" x="6807" y="3033" width="534" height="803" frameX="0" frameY="-17" frameWidth="534" frameHeight="820"/>
+	<SubTexture name="Ronnie UPP MISS0003" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0004" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0005" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0006" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0007" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0008" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0009" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0010" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0011" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0012" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0013" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0014" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0015" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0016" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0017" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0018" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0019" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0020" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0021" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0022" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0023" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0024" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0025" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0026" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0027" x="7341" y="3033" width="534" height="820"/>
+	<SubTexture name="Ronnie UPP MISS0028" x="7341" y="3033" width="534" height="820"/>
+</TextureAtlas>

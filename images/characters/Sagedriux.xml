@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sagedriux.png"><SubTexture name="Sagedriux talkA0000" x="0" y="0" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkA0001" x="516" y="0" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkA0002" x="1032" y="0" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkA-alt0000" x="1548" y="0" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkA-alt0001" x="2064" y="0" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkA-alt0002" x="0" y="644" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux down0000" x="516" y="644" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux down0001" x="1032" y="644" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux down0002" x="1548" y="644" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux down0003" x="2064" y="644" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux idle0000" x="0" y="1288" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux idle0001" x="516" y="1288" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux idle0002" x="1032" y="1288" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux laugh0000" x="1548" y="1288" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux laugh0001" x="2064" y="1288" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux laugh0002" x="0" y="1932" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux left0000" x="516" y="1932" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux left0001" x="1032" y="1932" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux left0002" x="1548" y="1932" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkO0000" x="2064" y="1932" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkO0001" x="0" y="2576" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkO0002" x="516" y="2576" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkO-alt0000" x="1032" y="2576" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkO-alt0001" x="1548" y="2576" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux talkO-alt0002" x="2064" y="2576" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux right0000" x="0" y="3220" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux right0001" x="516" y="3220" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux right0002" x="1032" y="3220" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux scream0000" x="1548" y="3220" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux scream0001" x="2064" y="3220" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux scream0002" x="0" y="3864" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux up0000" x="516" y="3864" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux up0001" x="1032" y="3864" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+<SubTexture name="Sagedriux up0002" x="1548" y="3864" width="516" height="644" frameX="0" frameY="0" frameWidth="516" frameHeight="644" />
+</TextureAtlas>

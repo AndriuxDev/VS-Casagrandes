@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Leni.png"><SubTexture name="Leni down0000" x="0" y="0" width="441" height="851" frameX="0" frameY="0" frameWidth="441" frameHeight="851" />
+<SubTexture name="Leni down0001" x="441" y="0" width="441" height="851" frameX="0" frameY="0" frameWidth="441" frameHeight="851" />
+<SubTexture name="Leni down0002" x="882" y="0" width="441" height="851" frameX="0" frameY="0" frameWidth="441" frameHeight="851" />
+<SubTexture name="Leni down0003" x="1323" y="0" width="441" height="851" frameX="0" frameY="0" frameWidth="441" frameHeight="851" />
+<SubTexture name="Leni down0004" x="1764" y="0" width="441" height="851" frameX="0" frameY="0" frameWidth="441" frameHeight="851" />
+<SubTexture name="Leni idle0000" x="0" y="851" width="421" height="846" frameX="0" frameY="0" frameWidth="421" frameHeight="846" />
+<SubTexture name="Leni idle0001" x="421" y="851" width="421" height="846" frameX="0" frameY="0" frameWidth="421" frameHeight="846" />
+<SubTexture name="Leni idle0002" x="842" y="851" width="421" height="846" frameX="0" frameY="0" frameWidth="421" frameHeight="846" />
+<SubTexture name="Leni idle0003" x="1263" y="851" width="421" height="846" frameX="0" frameY="0" frameWidth="421" frameHeight="846" />
+<SubTexture name="Leni idle0004" x="1684" y="851" width="421" height="846" frameX="0" frameY="0" frameWidth="421" frameHeight="846" />
+<SubTexture name="Leni left0000" x="0" y="1697" width="432" height="846" frameX="0" frameY="0" frameWidth="432" frameHeight="846" />
+<SubTexture name="Leni left0001" x="432" y="1697" width="432" height="846" frameX="0" frameY="0" frameWidth="432" frameHeight="846" />
+<SubTexture name="Leni left0002" x="864" y="1697" width="432" height="846" frameX="0" frameY="0" frameWidth="432" frameHeight="846" />
+<SubTexture name="Leni left0003" x="1296" y="1697" width="432" height="846" frameX="0" frameY="0" frameWidth="432" frameHeight="846" />
+<SubTexture name="Leni left0004" x="1728" y="1697" width="432" height="846" frameX="0" frameY="0" frameWidth="432" frameHeight="846" />
+<SubTexture name="Leni right0000" x="0" y="2543" width="417" height="850" frameX="0" frameY="0" frameWidth="417" frameHeight="850" />
+<SubTexture name="Leni right0001" x="417" y="2543" width="417" height="850" frameX="0" frameY="0" frameWidth="417" frameHeight="850" />
+<SubTexture name="Leni right0002" x="834" y="2543" width="417" height="850" frameX="0" frameY="0" frameWidth="417" frameHeight="850" />
+<SubTexture name="Leni right0003" x="1251" y="2543" width="417" height="850" frameX="0" frameY="0" frameWidth="417" frameHeight="850" />
+<SubTexture name="Leni right0004" x="1668" y="2543" width="417" height="850" frameX="0" frameY="0" frameWidth="417" frameHeight="850" />
+<SubTexture name="Leni up0000" x="0" y="3393" width="419" height="850" frameX="0" frameY="0" frameWidth="419" frameHeight="850" />
+<SubTexture name="Leni up0001" x="419" y="3393" width="419" height="850" frameX="0" frameY="0" frameWidth="419" frameHeight="850" />
+<SubTexture name="Leni up0002" x="838" y="3393" width="419" height="850" frameX="0" frameY="0" frameWidth="419" frameHeight="850" />
+<SubTexture name="Leni up0003" x="1257" y="3393" width="419" height="850" frameX="0" frameY="0" frameWidth="419" frameHeight="850" />
+<SubTexture name="Leni up0004" x="1676" y="3393" width="419" height="850" frameX="0" frameY="0" frameWidth="419" frameHeight="850" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MarioDead.png"><SubTexture name="MarioDead firstDeath0000" x="0" y="0" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0001" x="545" y="0" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0002" x="1090" y="0" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0003" x="0" y="582" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0004" x="545" y="582" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0005" x="1090" y="582" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0006" x="0" y="1164" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0007" x="545" y="1164" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0008" x="1090" y="1164" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead firstDeath0009" x="0" y="1746" width="545" height="582" frameX="0" frameY="0" frameWidth="545" frameHeight="582" />
+<SubTexture name="MarioDead deathConfirm0000" x="545" y="1746" width="536" height="570" frameX="0" frameY="0" frameWidth="536" frameHeight="570" />
+<SubTexture name="MarioDead deathConfirm0001" x="1081" y="1746" width="536" height="570" frameX="0" frameY="0" frameWidth="536" frameHeight="570" />
+</TextureAtlas>

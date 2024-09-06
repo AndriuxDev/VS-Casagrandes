@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Playable_Andy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Playandy  Dodge0000" x="2618" y="1400" width="532" height="651"/>
+	<SubTexture name="Playandy  Dodge0001" x="3150" y="1400" width="532" height="651"/>
+	<SubTexture name="Playandy  Dodge0002" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0003" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0004" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0005" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0006" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0007" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0008" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0009" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0010" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0011" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0012" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0013" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy  Dodge0014" x="3682" y="1400" width="532" height="646" frameX="0" frameY="-5" frameWidth="532" frameHeight="651"/>
+	<SubTexture name="Playandy Attack0000" x="4214" y="1400" width="750" height="697" frameX="0" frameY="-55" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy Attack0001" x="4214" y="1400" width="750" height="697" frameX="0" frameY="-55" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy Attack0002" x="4964" y="1400" width="691" height="724" frameX="-59" frameY="-29" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy Attack0003" x="4964" y="1400" width="691" height="724" frameX="-59" frameY="-29" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy Attack0004" x="5655" y="1400" width="622" height="741" frameX="-128" frameY="-12" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy Attack0005" x="5655" y="1400" width="622" height="741" frameX="-128" frameY="-12" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy Attack0006" x="6277" y="1400" width="573" height="752" frameX="-177" frameY="0" frameWidth="750" frameHeight="753"/>
+	<SubTexture name="Playandy DIES0000" x="0" y="0" width="429" height="724" frameX="-29" frameY="0" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0001" x="429" y="0" width="423" height="704" frameX="-35" frameY="-20" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0002" x="852" y="0" width="533" height="647" frameX="0" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0003" x="1385" y="0" width="403" height="663" frameX="-53" frameY="-61" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0004" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0005" x="2191" y="0" width="405" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0006" x="2191" y="0" width="405" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0007" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0008" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0009" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0010" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0011" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0012" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0013" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0014" x="1788" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0015" x="2596" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0016" x="2596" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0017" x="2999" y="0" width="405" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0018" x="3404" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0019" x="3404" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0020" x="3807" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0021" x="3807" y="0" width="403" height="647" frameX="-53" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0022" x="4210" y="0" width="405" height="647" frameX="-51" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0023" x="4615" y="0" width="407" height="647" frameX="-51" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0024" x="5022" y="0" width="413" height="647" frameX="-45" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0025" x="5435" y="0" width="437" height="647" frameX="-19" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0026" x="5435" y="0" width="437" height="647" frameX="-19" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0027" x="5872" y="0" width="431" height="647" frameX="-25" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0028" x="5872" y="0" width="431" height="647" frameX="-25" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0029" x="6303" y="0" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0030" x="6741" y="0" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0031" x="6741" y="0" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0032" x="7179" y="0" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0033" x="7179" y="0" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0034" x="7617" y="0" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0035" x="0" y="724" width="440" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0036" x="440" y="724" width="440" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0037" x="880" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0038" x="1318" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0039" x="1318" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0040" x="1756" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0041" x="1756" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0042" x="2194" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0043" x="2194" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0044" x="2632" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0045" x="2632" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0046" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0047" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0048" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0049" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0050" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0051" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0052" x="3508" y="724" width="440" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0053" x="3508" y="724" width="440" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0054" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0055" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0056" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0057" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy DIES0058" x="3070" y="724" width="438" height="647" frameX="-18" frameY="-77" frameWidth="533" frameHeight="724"/>
+	<SubTexture name="Playandy Die Confirm0000" x="6850" y="1400" width="462" height="647" frameX="0" frameY="-43" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0001" x="7312" y="1400" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0002" x="0" y="2152" width="462" height="690" frameX="0" frameY="0" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0003" x="462" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0004" x="924" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0005" x="1386" y="2152" width="464" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0006" x="1850" y="2152" width="464" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0007" x="2314" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0008" x="2776" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0009" x="3238" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0010" x="3700" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0011" x="4162" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0012" x="4624" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0013" x="5086" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0014" x="5548" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0015" x="6010" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0016" x="6472" y="2152" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0017" x="6934" y="2152" width="464" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0018" x="7398" y="2152" width="464" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0019" x="0" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0020" x="462" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0021" x="924" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0022" x="1386" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0023" x="1386" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0024" x="1848" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0025" x="1848" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0026" x="1848" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0027" x="1848" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0028" x="1848" y="2842" width="462" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die Confirm0029" x="2310" y="2842" width="464" height="661" frameX="0" frameY="-29" frameWidth="464" frameHeight="690"/>
+	<SubTexture name="Playandy Die LOOP0000" x="2774" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0001" x="3236" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0002" x="3236" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0003" x="3698" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0004" x="3698" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0005" x="4160" y="2842" width="464" height="647"/>
+	<SubTexture name="Playandy Die LOOP0006" x="4160" y="2842" width="464" height="647"/>
+	<SubTexture name="Playandy Die LOOP0007" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0008" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0009" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0010" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0011" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0012" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0013" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0014" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0015" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0016" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0017" x="5086" y="2842" width="464" height="647"/>
+	<SubTexture name="Playandy Die LOOP0018" x="5550" y="2842" width="464" height="647"/>
+	<SubTexture name="Playandy Die LOOP0019" x="3236" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0020" x="3698" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0021" x="3698" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0022" x="6014" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0023" x="6014" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0024" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0025" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0026" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0027" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0028" x="4624" y="2842" width="462" height="647" frameX="0" frameY="0" frameWidth="464" frameHeight="647"/>
+	<SubTexture name="Playandy Die LOOP0029" x="6476" y="2842" width="464" height="647"/>
+	<SubTexture name="Playandy Down0000" x="6940" y="2842" width="365" height="641"/>
+	<SubTexture name="Playandy Down0001" x="6940" y="2842" width="365" height="641"/>
+	<SubTexture name="Playandy Down0002" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0003" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0004" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0005" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0006" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0007" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0008" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0009" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0010" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0011" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0012" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0013" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Down0014" x="7305" y="2842" width="365" height="635" frameX="0" frameY="-6" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Downn Miss0000" x="6940" y="2842" width="365" height="641" frameX="0" frameY="-35" frameWidth="365" frameHeight="641"/>
+	<SubTexture name="Playandy Downn Miss0001" x="7670" y="2842" width="365" height="676"/>
+	<SubTexture name="Playandy Downn Miss0002" x="7670" y="2842" width="365" height="676"/>
+	<SubTexture name="Playandy Downn Miss0003" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0004" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0005" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0006" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0007" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0008" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0009" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0010" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0011" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0012" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0013" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0014" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0015" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0016" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0017" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0018" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0019" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0020" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0021" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0022" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0023" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0024" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0025" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0026" x="365" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0027" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Downn Miss0028" x="0" y="3518" width="365" height="672" frameX="0" frameY="-4" frameWidth="365" frameHeight="676"/>
+	<SubTexture name="Playandy Hey0000" x="730" y="3518" width="380" height="647" frameX="0" frameY="-4" frameWidth="380" frameHeight="651"/>
+	<SubTexture name="Playandy Hey0001" x="730" y="3518" width="380" height="647" frameX="0" frameY="-4" frameWidth="380" frameHeight="651"/>
+	<SubTexture name="Playandy Hey0002" x="1110" y="3518" width="380" height="647" frameX="0" frameY="-4" frameWidth="380" frameHeight="651"/>
+	<SubTexture name="Playandy Hey0003" x="1110" y="3518" width="380" height="647" frameX="0" frameY="-4" frameWidth="380" frameHeight="651"/>
+	<SubTexture name="Playandy Hey0004" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0005" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0006" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0007" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0008" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0009" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0010" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0011" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0012" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0013" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0014" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0015" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0016" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0017" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0018" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0019" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0020" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0021" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0022" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0023" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0024" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Hey0025" x="1490" y="3518" width="380" height="651"/>
+	<SubTexture name="Playandy Idle0000" x="1870" y="3518" width="397" height="647" frameX="0" frameY="-15" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0001" x="1870" y="3518" width="397" height="647" frameX="0" frameY="-15" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0002" x="2267" y="3518" width="394" height="651" frameX="-3" frameY="-11" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0003" x="2267" y="3518" width="394" height="651" frameX="-3" frameY="-11" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0004" x="2661" y="3518" width="395" height="656" frameX="-2" frameY="-6" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0005" x="2661" y="3518" width="395" height="656" frameX="-2" frameY="-6" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0006" x="3056" y="3518" width="395" height="662" frameX="-2" frameY="0" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0007" x="3056" y="3518" width="395" height="662" frameX="-2" frameY="0" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0008" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0009" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0010" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0011" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0012" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0013" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Idle0014" x="3451" y="3518" width="395" height="657" frameX="-2" frameY="-5" frameWidth="397" frameHeight="662"/>
+	<SubTexture name="Playandy Left0000" x="3846" y="3518" width="368" height="647" frameX="-9" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0001" x="3846" y="3518" width="368" height="647" frameX="-9" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0002" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0003" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0004" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0005" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0006" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0007" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0008" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0009" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0010" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0011" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0012" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0013" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Left0014" x="4214" y="3518" width="375" height="647" frameX="0" frameY="0" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Leftt Miss0000" x="3846" y="3518" width="368" height="647" frameX="-16" frameY="-29" frameWidth="377" frameHeight="647"/>
+	<SubTexture name="Playandy Leftt Miss0001" x="3948" y="724" width="368" height="676" frameX="-16" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0002" x="3948" y="724" width="368" height="676" frameX="-16" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0003" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0004" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0005" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0006" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0007" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0008" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0009" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0010" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0011" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0012" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0013" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0014" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0015" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0016" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0017" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0018" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0019" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0020" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0021" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0022" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0023" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0024" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0025" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0026" x="4695" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0027" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Leftt Miss0028" x="4316" y="724" width="379" height="676" frameX="0" frameY="0" frameWidth="384" frameHeight="676"/>
+	<SubTexture name="Playandy Ouch0000" x="5074" y="724" width="352" height="639" frameX="-31" frameY="-10" frameWidth="383" frameHeight="649"/>
+	<SubTexture name="Playandy Ouch0001" x="5426" y="724" width="352" height="636" frameX="-31" frameY="-13" frameWidth="383" frameHeight="649"/>
+	<SubTexture name="Playandy Ouch0002" x="5778" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0003" x="5778" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0004" x="6161" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0005" x="6161" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0006" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0007" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0008" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0009" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0010" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0011" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0012" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0013" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0014" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0015" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0016" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0017" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Ouch0018" x="6544" y="724" width="383" height="649"/>
+	<SubTexture name="Playandy Right0000" x="6927" y="724" width="387" height="647" frameX="0" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0001" x="6927" y="724" width="387" height="647" frameX="0" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0002" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0003" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0004" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0005" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0006" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0007" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0008" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0009" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0010" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0011" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0012" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0013" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Right0014" x="7314" y="724" width="400" height="647" frameX="-2" frameY="0" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Rightt Miss0000" x="6927" y="724" width="387" height="647" frameX="0" frameY="-29" frameWidth="402" frameHeight="647"/>
+	<SubTexture name="Playandy Rightt Miss0001" x="7714" y="724" width="387" height="676" frameX="0" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0002" x="7714" y="724" width="387" height="676" frameX="0" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0003" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0004" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0005" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0006" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0007" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0008" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0009" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0010" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0011" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0012" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0013" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0014" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0015" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0016" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0017" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0018" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0019" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0020" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0021" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0022" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0023" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0024" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0025" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0026" x="394" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0027" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Rightt Miss0028" x="0" y="1400" width="394" height="676" frameX="-3" frameY="0" frameWidth="397" frameHeight="676"/>
+	<SubTexture name="Playandy Up0000" x="788" y="1400" width="366" height="648" frameX="0" frameY="-21" frameWidth="366" frameHeight="669"/>
+	<SubTexture name="Playandy Up0001" x="788" y="1400" width="366" height="648" frameX="0" frameY="-21" frameWidth="366" frameHeight="669"/>
+	<SubTexture name="Playandy Up0002" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0003" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0004" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0005" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0006" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0007" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0008" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0009" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0010" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0011" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0012" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0013" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Up0014" x="1154" y="1400" width="366" height="669"/>
+	<SubTexture name="Playandy Upp Miss0000" x="788" y="1400" width="366" height="648" frameX="0" frameY="-38" frameWidth="366" frameHeight="669"/>
+	<SubTexture name="Playandy Upp Miss0001" x="1520" y="1400" width="366" height="676" frameX="0" frameY="-10" frameWidth="366" frameHeight="686"/>
+	<SubTexture name="Playandy Upp Miss0002" x="1520" y="1400" width="366" height="676" frameX="0" frameY="-10" frameWidth="366" frameHeight="686"/>
+	<SubTexture name="Playandy Upp Miss0003" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0004" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0005" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0006" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0007" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0008" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0009" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0010" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0011" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0012" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0013" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0014" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0015" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0016" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0017" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0018" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0019" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0020" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0021" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0022" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0023" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0024" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0025" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0026" x="2252" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0027" x="1886" y="1400" width="366" height="686"/>
+	<SubTexture name="Playandy Upp Miss0028" x="1886" y="1400" width="366" height="686"/>
+</TextureAtlas>

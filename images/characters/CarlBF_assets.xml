@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Carl_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Carl DIE Confirm0000" x="0" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0001" x="349" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0002" x="698" y="0" width="349" height="547" frameX="0" frameY="0" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0003" x="1047" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0004" x="1396" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0005" x="1745" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0006" x="2094" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0007" x="2443" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0008" x="2792" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0009" x="3141" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0010" x="3490" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0011" x="3839" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0012" x="4188" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0013" x="4537" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0014" x="4886" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0015" x="5235" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0016" x="5584" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0017" x="5933" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0018" x="6282" y="0" width="349" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0019" x="6631" y="0" width="351" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0020" x="6982" y="0" width="352" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0021" x="7334" y="0" width="353" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0022" x="7687" y="0" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0023" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0024" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0025" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0026" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0027" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0028" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0029" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0030" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0031" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0032" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIE Confirm0033" x="0" y="547" width="354" height="540" frameX="0" frameY="-7" frameWidth="355" frameHeight="547"/>
+	<SubTexture name="Carl DIES0000" x="354" y="547" width="429" height="557" frameX="-29" frameY="0" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0001" x="783" y="547" width="422" height="540" frameX="-65" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0002" x="1205" y="547" width="532" height="540" frameX="0" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0003" x="1737" y="547" width="507" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0004" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0005" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0006" x="2548" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0007" x="2548" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0008" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0009" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0010" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0011" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0012" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0013" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0014" x="2244" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0015" x="2852" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0016" x="2852" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0017" x="2852" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0018" x="3156" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0019" x="3156" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0020" x="3460" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0021" x="3764" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0022" x="4068" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0023" x="4372" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0024" x="4676" y="547" width="304" height="540" frameX="-96" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0025" x="4980" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0026" x="4980" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0027" x="5329" y="547" width="348" height="540" frameX="-52" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0028" x="5329" y="547" width="348" height="540" frameX="-52" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0029" x="5677" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0030" x="5677" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0031" x="5677" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0032" x="6026" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0033" x="6026" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0034" x="6375" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0035" x="6375" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0036" x="6724" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0037" x="6724" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0038" x="7073" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0039" x="7073" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0040" x="7422" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0041" x="7422" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0042" x="7771" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0043" x="7771" y="547" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0044" x="0" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0045" x="0" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0046" x="349" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0047" x="349" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0048" x="698" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0049" x="698" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0050" x="1047" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0051" x="1047" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0052" x="1047" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0053" x="1047" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0054" x="1047" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0055" x="1396" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0056" x="1396" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DIES0057" x="1047" y="1104" width="349" height="540" frameX="-51" frameY="-17" frameWidth="603" frameHeight="557"/>
+	<SubTexture name="Carl DOWN0000" x="1745" y="1104" width="463" height="545"/>
+	<SubTexture name="Carl DOWN0001" x="1745" y="1104" width="463" height="545"/>
+	<SubTexture name="Carl DOWN0002" x="1745" y="1104" width="463" height="545"/>
+	<SubTexture name="Carl DOWN0003" x="2208" y="1104" width="463" height="539" frameX="0" frameY="-6" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0004" x="2208" y="1104" width="463" height="539" frameX="0" frameY="-6" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0005" x="2208" y="1104" width="463" height="539" frameX="0" frameY="-6" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0006" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0007" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0008" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0009" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0010" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0011" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0012" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0013" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0014" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWN0015" x="2671" y="1104" width="463" height="536" frameX="0" frameY="-9" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWNN MISS0000" x="1745" y="1104" width="463" height="545" frameX="0" frameY="-2" frameWidth="463" frameHeight="545"/>
+	<SubTexture name="Carl DOWNN MISS0001" x="3134" y="1104" width="467" height="550"/>
+	<SubTexture name="Carl DOWNN MISS0002" x="3134" y="1104" width="467" height="550"/>
+	<SubTexture name="Carl DOWNN MISS0003" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0004" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0005" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0006" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0007" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0008" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0009" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0010" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0011" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0012" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0013" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0014" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl DOWNN MISS0015" x="3601" y="1104" width="467" height="536" frameX="0" frameY="-7" frameWidth="467" frameHeight="550"/>
+	<SubTexture name="Carl Die Loop0000" x="4068" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0001" x="4417" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0002" x="4417" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0003" x="4766" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0004" x="4766" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0005" x="5115" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0006" x="5464" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0007" x="5813" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0008" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0009" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0010" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0011" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0012" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0013" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0014" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0015" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0016" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0017" x="4068" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0018" x="4417" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0019" x="4417" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0020" x="4766" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0021" x="6511" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0022" x="5464" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0023" x="5115" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0024" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0025" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0026" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0027" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0028" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0029" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0030" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0031" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0032" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl Die Loop0033" x="6162" y="1104" width="349" height="540"/>
+	<SubTexture name="Carl HEY0000" x="6860" y="1104" width="297" height="549"/>
+	<SubTexture name="Carl HEY0001" x="6860" y="1104" width="297" height="549"/>
+	<SubTexture name="Carl HEY0002" x="7157" y="1104" width="293" height="518" frameX="-4" frameY="-30" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0003" x="7157" y="1104" width="293" height="518" frameX="-4" frameY="-30" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0004" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0005" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0006" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0007" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0008" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0009" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0010" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0011" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0012" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0013" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0014" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0015" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0016" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0017" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0018" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0019" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0020" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0021" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0022" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0023" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0024" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl HEY0025" x="7450" y="1104" width="293" height="522" frameX="-4" frameY="-26" frameWidth="297" frameHeight="549"/>
+	<SubTexture name="Carl IDLE0000" x="7743" y="1104" width="275" height="540"/>
+	<SubTexture name="Carl IDLE0001" x="7743" y="1104" width="275" height="540"/>
+	<SubTexture name="Carl IDLE0002" x="0" y="1654" width="275" height="536" frameX="0" frameY="-4" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0003" x="0" y="1654" width="275" height="536" frameX="0" frameY="-4" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0004" x="275" y="1654" width="275" height="532" frameX="0" frameY="-8" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0005" x="550" y="1654" width="275" height="527" frameX="0" frameY="-13" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0006" x="825" y="1654" width="275" height="527" frameX="0" frameY="-13" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0007" x="825" y="1654" width="275" height="527" frameX="0" frameY="-13" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0008" x="1100" y="1654" width="275" height="527" frameX="0" frameY="-13" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0009" x="1100" y="1654" width="275" height="527" frameX="0" frameY="-13" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0010" x="1375" y="1654" width="275" height="537" frameX="0" frameY="-3" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0011" x="1375" y="1654" width="275" height="537" frameX="0" frameY="-3" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0012" x="1375" y="1654" width="275" height="537" frameX="0" frameY="-3" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0013" x="1375" y="1654" width="275" height="537" frameX="0" frameY="-3" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0014" x="1375" y="1654" width="275" height="537" frameX="0" frameY="-3" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl IDLE0015" x="1375" y="1654" width="275" height="537" frameX="0" frameY="-3" frameWidth="275" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0000" x="1650" y="1654" width="305" height="540" frameX="-2" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0001" x="1650" y="1654" width="305" height="540" frameX="-2" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0002" x="1650" y="1654" width="305" height="540" frameX="-2" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0003" x="1955" y="1654" width="308" height="540"/>
+	<SubTexture name="Carl LEFT0004" x="1955" y="1654" width="308" height="540"/>
+	<SubTexture name="Carl LEFT0005" x="1955" y="1654" width="308" height="540"/>
+	<SubTexture name="Carl LEFT0006" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0007" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0008" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0009" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0010" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0011" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0012" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0013" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0014" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFT0015" x="2263" y="1654" width="301" height="540" frameX="-6" frameY="0" frameWidth="308" frameHeight="540"/>
+	<SubTexture name="Carl LEFTT MISS0000" x="2564" y="1654" width="305" height="540" frameX="-23" frameY="-18" frameWidth="342" frameHeight="558"/>
+	<SubTexture name="Carl LEFTT MISS0001" x="2869" y="1654" width="302" height="558" frameX="-26" frameY="0" frameWidth="342" frameHeight="558"/>
+	<SubTexture name="Carl LEFTT MISS0002" x="2869" y="1654" width="302" height="558" frameX="-26" frameY="0" frameWidth="342" frameHeight="558"/>
+	<SubTexture name="Carl LEFTT MISS0003" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0004" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0005" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0006" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0007" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0008" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0009" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0010" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0011" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0012" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0013" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0014" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl LEFTT MISS0015" x="3171" y="1654" width="342" height="558"/>
+	<SubTexture name="Carl RIGHT0000" x="3513" y="1654" width="282" height="540" frameX="0" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0001" x="3513" y="1654" width="282" height="540" frameX="0" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0002" x="3513" y="1654" width="282" height="540" frameX="0" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0003" x="3795" y="1654" width="282" height="540" frameX="-9" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0004" x="3795" y="1654" width="282" height="540" frameX="-9" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0005" x="3795" y="1654" width="282" height="540" frameX="-9" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0006" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0007" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0008" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0009" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0010" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0011" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0012" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0013" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0014" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHT0015" x="4077" y="1654" width="284" height="540" frameX="-12" frameY="0" frameWidth="296" frameHeight="540"/>
+	<SubTexture name="Carl RIGHTT MISS0000" x="4361" y="1654" width="282" height="540" frameX="-8" frameY="-18" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0001" x="4643" y="1654" width="276" height="562" frameX="-14" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0002" x="4643" y="1654" width="276" height="562" frameX="-14" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0003" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0004" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0005" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0006" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0007" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0008" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0009" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0010" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0011" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0012" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0013" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0014" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl RIGHTT MISS0015" x="4919" y="1654" width="284" height="562" frameX="0" frameY="0" frameWidth="290" frameHeight="562"/>
+	<SubTexture name="Carl UP0000" x="5203" y="1654" width="318" height="544" frameX="0" frameY="-14" frameWidth="318" frameHeight="559"/>
+	<SubTexture name="Carl UP0001" x="5203" y="1654" width="318" height="544" frameX="0" frameY="-14" frameWidth="318" frameHeight="559"/>
+	<SubTexture name="Carl UP0002" x="5203" y="1654" width="318" height="544" frameX="0" frameY="-14" frameWidth="318" frameHeight="559"/>
+	<SubTexture name="Carl UP0003" x="5521" y="1654" width="318" height="554" frameX="0" frameY="-5" frameWidth="318" frameHeight="559"/>
+	<SubTexture name="Carl UP0004" x="5521" y="1654" width="318" height="554" frameX="0" frameY="-5" frameWidth="318" frameHeight="559"/>
+	<SubTexture name="Carl UP0005" x="5521" y="1654" width="318" height="554" frameX="0" frameY="-5" frameWidth="318" frameHeight="559"/>
+	<SubTexture name="Carl UP0006" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0007" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0008" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0009" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0010" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0011" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0012" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0013" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0014" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UP0015" x="5839" y="1654" width="318" height="559"/>
+	<SubTexture name="Carl UPP MISS0000" x="6157" y="1654" width="318" height="544" frameX="-1" frameY="-9" frameWidth="322" frameHeight="562"/>
+	<SubTexture name="Carl UPP MISS0001" x="6475" y="1654" width="322" height="548" frameX="0" frameY="-7" frameWidth="322" frameHeight="562"/>
+	<SubTexture name="Carl UPP MISS0002" x="6475" y="1654" width="322" height="548" frameX="0" frameY="-7" frameWidth="322" frameHeight="562"/>
+	<SubTexture name="Carl UPP MISS0003" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0004" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0005" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0006" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0007" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0008" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0009" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0010" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0011" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0012" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0013" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0014" x="6797" y="1654" width="322" height="562"/>
+	<SubTexture name="Carl UPP MISS0015" x="6797" y="1654" width="322" height="562"/>
+</TextureAtlas>

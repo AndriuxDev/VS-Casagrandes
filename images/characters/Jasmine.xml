@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jasmine.png">
+<SubTexture name="Jasmine down0000" x="1439" y="1954" width="377" height="625" frameX="-18" frameY="-24" frameWidth="395" frameHeight="649" />
+<SubTexture name="Jasmine down0001" x="1068" y="1954" width="371" height="632" frameX="-10" frameY="-17" frameWidth="395" frameHeight="649" />
+<SubTexture name="Jasmine down0002" x="0" y="1954" width="361" height="639" frameX="-5" frameY="-10" frameWidth="395" frameHeight="649" />
+<SubTexture name="Jasmine down0003" x="1348" y="1307" width="349" height="644" frameX="-1" frameY="-5" frameWidth="395" frameHeight="649" />
+<SubTexture name="Jasmine down0004" x="0" y="658" width="335" height="649" frameX="0" frameY="0" frameWidth="395" frameHeight="649" />
+<SubTexture name="Jasmine idle0000" x="712" y="1954" width="356" height="634" frameX="-12" frameY="-15" frameWidth="368" frameHeight="649" />
+<SubTexture name="Jasmine idle0001" x="361" y="1954" width="351" height="638" frameX="-8" frameY="-11" frameWidth="368" frameHeight="649" />
+<SubTexture name="Jasmine idle0002" x="2268" y="0" width="344" height="642" frameX="-5" frameY="-7" frameWidth="368" frameHeight="649" />
+<SubTexture name="Jasmine idle0003" x="335" y="1307" width="338" height="646" frameX="-2" frameY="-3" frameWidth="368" frameHeight="649" />
+<SubTexture name="Jasmine idle0004" x="335" y="658" width="330" height="649" frameX="0" frameY="0" frameWidth="368" frameHeight="649" />
+<SubTexture name="Jasmine left0000" x="2268" y="642" width="333" height="642" frameX="0" frameY="-7" frameWidth="340" frameHeight="649" />
+<SubTexture name="Jasmine left0001" x="1697" y="1307" width="334" height="643" frameX="-2" frameY="-6" frameWidth="340" frameHeight="649" />
+<SubTexture name="Jasmine left0002" x="1935" y="648" width="332" height="645" frameX="-5" frameY="-4" frameWidth="340" frameHeight="649" />
+<SubTexture name="Jasmine left0003" x="1556" y="649" width="331" height="648" frameX="-7" frameY="-1" frameWidth="340" frameHeight="649" />
+<SubTexture name="Jasmine left0004" x="665" y="658" width="330" height="649" frameX="-10" frameY="0" frameWidth="340" frameHeight="649" />
+<SubTexture name="Jasmine right0000" x="1010" y="1307" width="338" height="645" frameX="-12" frameY="-4" frameWidth="350" frameHeight="649" />
+<SubTexture name="Jasmine right0001" x="673" y="1307" width="337" height="646" frameX="-8" frameY="-3" frameWidth="350" frameHeight="649" />
+<SubTexture name="Jasmine right0002" x="0" y="1307" width="335" height="647" frameX="-5" frameY="-2" frameWidth="350" frameHeight="649" />
+<SubTexture name="Jasmine right0003" x="1935" y="0" width="333" height="648" frameX="-2" frameY="-1" frameWidth="350" frameHeight="649" />
+<SubTexture name="Jasmine right0004" x="995" y="658" width="330" height="649" frameX="0" frameY="0" frameWidth="350" frameHeight="649" />
+<SubTexture name="Jasmine up0000" x="0" y="0" width="385" height="658" frameX="-2" frameY="0" frameWidth="392" frameHeight="658" />
+<SubTexture name="Jasmine up0001" x="385" y="0" width="391" height="656" frameX="-1" frameY="-2" frameWidth="392" frameHeight="658" />
+<SubTexture name="Jasmine up0002" x="776" y="0" width="392" height="654" frameX="0" frameY="-4" frameWidth="392" frameHeight="658" />
+<SubTexture name="Jasmine up0003" x="1168" y="0" width="388" height="652" frameX="0" frameY="-6" frameWidth="392" frameHeight="658" />
+<SubTexture name="Jasmine up0004" x="1556" y="0" width="379" height="649" frameX="0" frameY="-9" frameWidth="392" frameHeight="658" />
+</TextureAtlas>

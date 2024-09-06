@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tails.png"><SubTexture name="Tails Dancing Beat0000" x="0" y="0" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0001" x="699" y="0" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0002" x="1398" y="0" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0003" x="0" y="754" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0004" x="699" y="754" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0005" x="1398" y="754" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0006" x="0" y="1508" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0007" x="699" y="1508" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0008" x="1398" y="1508" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0009" x="0" y="2262" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0010" x="699" y="2262" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails Dancing Beat0011" x="1398" y="2262" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+<SubTexture name="Tails sad0000" x="0" y="3016" width="699" height="754" frameX="0" frameY="0" frameWidth="699" frameHeight="754" />
+</TextureAtlas>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Carl_J2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Carl J2 IDLE0000" x="0" y="0" width="296" height="545"/>
+	<SubTexture name="Carl J2 IDLE0001" x="0" y="0" width="296" height="545"/>
+	<SubTexture name="Carl J2 IDLE0002" x="296" y="0" width="296" height="538" frameX="0" frameY="-6" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0003" x="296" y="0" width="296" height="538" frameX="0" frameY="-6" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0004" x="592" y="0" width="296" height="528" frameX="0" frameY="-16" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0005" x="592" y="0" width="296" height="528" frameX="0" frameY="-16" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0006" x="888" y="0" width="296" height="521" frameX="0" frameY="-23" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0007" x="888" y="0" width="296" height="521" frameX="0" frameY="-23" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0008" x="1184" y="0" width="296" height="529" frameX="0" frameY="-15" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0009" x="1184" y="0" width="296" height="529" frameX="0" frameY="-15" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0010" x="1480" y="0" width="296" height="534" frameX="0" frameY="-11" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0011" x="1480" y="0" width="296" height="534" frameX="0" frameY="-11" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0012" x="1776" y="0" width="296" height="534" frameX="0" frameY="-11" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0013" x="1776" y="0" width="296" height="534" frameX="0" frameY="-11" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carl J2 IDLE0014" x="1480" y="0" width="296" height="534" frameX="0" frameY="-11" frameWidth="296" frameHeight="545"/>
+	<SubTexture name="Carlino DOWN0000" x="2072" y="0" width="274" height="557"/>
+	<SubTexture name="Carlino DOWN0001" x="2072" y="0" width="274" height="557"/>
+	<SubTexture name="Carlino DOWN0002" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0003" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0004" x="2620" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0005" x="2620" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0006" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0007" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0008" x="2620" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0009" x="2620" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0010" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0011" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0012" x="2620" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0013" x="2620" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino DOWN0014" x="2346" y="0" width="274" height="548" frameX="0" frameY="-9" frameWidth="274" frameHeight="557"/>
+	<SubTexture name="Carlino LEFT0000" x="2894" y="0" width="291" height="545" frameX="-9" frameY="0" frameWidth="300" frameHeight="545"/>
+	<SubTexture name="Carlino LEFT0001" x="2894" y="0" width="291" height="545" frameX="-9" frameY="0" frameWidth="300" frameHeight="545"/>
+	<SubTexture name="Carlino LEFT0002" x="3185" y="0" width="300" height="545"/>
+	<SubTexture name="Carlino LEFT0003" x="3485" y="0" width="300" height="545"/>
+	<SubTexture name="Carlino LEFT0004" x="3785" y="0" width="300" height="545"/>
+	<SubTexture name="Carlino LEFT0005" x="3785" y="0" width="300" height="545"/>
+	<SubTexture name="Carlino LEFT0006" x="3185" y="0" width="300" height="545"/>
+	<SubTexture name="Carlino LEFT0007" x="3185" y="0" width="300" height="545"/>
+	<SubTexture name="Carlino LEFT0008" x="0" y="557" width="300" height="545"/>
+	<SubTexture name="Carlino RIGHT0000" x="300" y="557" width="328" height="545" frameX="0" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0001" x="300" y="557" width="328" height="545" frameX="0" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0002" x="628" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0003" x="957" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0004" x="1286" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0005" x="1286" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0006" x="628" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0007" x="628" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino RIGHT0008" x="1615" y="557" width="329" height="545" frameX="-10" frameY="0" frameWidth="339" frameHeight="545"/>
+	<SubTexture name="Carlino UP0000" x="1944" y="557" width="296" height="545" frameX="0" frameY="-9" frameWidth="296" frameHeight="555"/>
+	<SubTexture name="Carlino UP0001" x="1944" y="557" width="296" height="545" frameX="0" frameY="-9" frameWidth="296" frameHeight="555"/>
+	<SubTexture name="Carlino UP0002" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0003" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0004" x="2536" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0005" x="2536" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0006" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0007" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0008" x="2536" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0009" x="2536" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0010" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0011" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0012" x="2536" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0013" x="2536" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0014" x="2240" y="557" width="296" height="555"/>
+	<SubTexture name="Carlino UP0015" x="2240" y="557" width="296" height="555"/>
+</TextureAtlas>

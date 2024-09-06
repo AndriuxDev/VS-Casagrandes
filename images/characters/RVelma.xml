@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RVelma.png">
+<SubTexture name="RVelma down0000" x="2182" y="1962" width="457" height="635" frameX="-3" frameY="-15" frameWidth="518" frameHeight="650" />
+<SubTexture name="RVelma down0001" x="1364" y="1962" width="461" height="638" frameX="0" frameY="-12" frameWidth="518" frameHeight="650" />
+<SubTexture name="RVelma down0002" x="902" y="1962" width="462" height="642" frameX="0" frameY="-8" frameWidth="518" frameHeight="650" />
+<SubTexture name="RVelma down0003" x="0" y="1962" width="457" height="646" frameX="-5" frameY="-4" frameWidth="518" frameHeight="650" />
+<SubTexture name="RVelma down0004" x="375" y="1311" width="449" height="650" frameX="-14" frameY="0" frameWidth="518" frameHeight="650" />
+<SubTexture name="RVelma idle0000" x="2677" y="0" width="357" height="631" frameX="-4" frameY="-19" frameWidth="430" frameHeight="650" />
+<SubTexture name="RVelma idle0001" x="1825" y="1962" width="357" height="636" frameX="-4" frameY="-14" frameWidth="430" frameHeight="650" />
+<SubTexture name="RVelma idle0002" x="2245" y="1292" width="360" height="640" frameX="-3" frameY="-10" frameWidth="430" frameHeight="650" />
+<SubTexture name="RVelma idle0003" x="2245" y="647" width="367" height="645" frameX="-1" frameY="-5" frameWidth="430" frameHeight="650" />
+<SubTexture name="RVelma idle0004" x="824" y="1311" width="375" height="650" frameX="0" frameY="0" frameWidth="430" frameHeight="650" />
+<SubTexture name="RVelma left0000" x="1275" y="0" width="498" height="653" frameX="0" frameY="0" frameWidth="576" frameHeight="653" />
+<SubTexture name="RVelma left0001" x="0" y="658" width="495" height="653" frameX="-15" frameY="0" frameWidth="576" frameHeight="653" />
+<SubTexture name="RVelma left0002" x="889" y="658" width="485" height="652" frameX="-32" frameY="-1" frameWidth="576" frameHeight="653" />
+<SubTexture name="RVelma left0003" x="1773" y="0" width="472" height="652" frameX="-49" frameY="-1" frameWidth="576" frameHeight="653" />
+<SubTexture name="RVelma left0004" x="1773" y="652" width="455" height="651" frameX="-66" frameY="-2" frameWidth="576" frameHeight="653" />
+<SubTexture name="RVelma right0000" x="457" y="1962" width="445" height="646" frameX="0" frameY="-5" frameWidth="453" frameHeight="651" />
+<SubTexture name="RVelma right0001" x="2245" y="0" width="432" height="647" frameX="0" frameY="-4" frameWidth="453" frameHeight="651" />
+<SubTexture name="RVelma right0002" x="1596" y="1311" width="415" height="649" frameX="-1" frameY="-2" frameWidth="453" frameHeight="651" />
+<SubTexture name="RVelma right0003" x="1199" y="1311" width="397" height="650" frameX="-2" frameY="-1" frameWidth="453" frameHeight="651" />
+<SubTexture name="RVelma right0004" x="1374" y="658" width="380" height="651" frameX="-1" frameY="0" frameWidth="453" frameHeight="651" />
+<SubTexture name="RVelma up0000" x="0" y="0" width="434" height="658" frameX="0" frameY="0" frameWidth="468" frameHeight="658" />
+<SubTexture name="RVelma up0001" x="434" y="0" width="428" height="656" frameX="-11" frameY="-2" frameWidth="468" frameHeight="658" />
+<SubTexture name="RVelma up0002" x="862" y="0" width="413" height="654" frameX="-23" frameY="-4" frameWidth="468" frameHeight="658" />
+<SubTexture name="RVelma up0003" x="495" y="658" width="394" height="653" frameX="-33" frameY="-5" frameWidth="468" frameHeight="658" />
+<SubTexture name="RVelma up0004" x="0" y="1311" width="375" height="651" frameX="-38" frameY="-7" frameWidth="468" frameHeight="658" />
+</TextureAtlas>

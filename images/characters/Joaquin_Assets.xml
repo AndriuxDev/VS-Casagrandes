@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Joaquin_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Joaquin Down0000" x="0" y="0" width="217" height="426"/>
+	<SubTexture name="Joaquin Down0001" x="0" y="0" width="217" height="426"/>
+	<SubTexture name="Joaquin Down0002" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0003" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0004" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0005" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0006" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0007" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0008" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0009" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0010" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0011" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0012" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0013" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Down0014" x="217" y="0" width="217" height="420" frameX="0" frameY="-6" frameWidth="217" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0000" x="434" y="0" width="187" height="414" frameX="0" frameY="-12" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0001" x="434" y="0" width="187" height="414" frameX="0" frameY="-12" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0002" x="621" y="0" width="183" height="419" frameX="-4" frameY="-6" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0003" x="621" y="0" width="183" height="419" frameX="-4" frameY="-6" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0004" x="804" y="0" width="183" height="423" frameX="-4" frameY="-2" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0005" x="804" y="0" width="183" height="423" frameX="-4" frameY="-2" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0006" x="987" y="0" width="183" height="425" frameX="-4" frameY="0" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0007" x="987" y="0" width="183" height="425" frameX="-4" frameY="0" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0008" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0009" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0010" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0011" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0012" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0013" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Idle0014" x="1170" y="0" width="183" height="422" frameX="-4" frameY="-3" frameWidth="187" frameHeight="426"/>
+	<SubTexture name="Joaquin Left0000" x="1353" y="0" width="250" height="421" frameX="-7" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0001" x="1353" y="0" width="250" height="421" frameX="-7" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0002" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0003" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0004" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0005" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0006" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0007" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0008" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0009" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0010" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0011" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0012" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0013" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Left0014" x="1603" y="0" width="248" height="421" frameX="0" frameY="0" frameWidth="257" frameHeight="421"/>
+	<SubTexture name="Joaquin Right0000" x="0" y="426" width="249" height="419" frameX="0" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0001" x="0" y="426" width="249" height="419" frameX="0" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0002" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0003" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0004" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0005" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0006" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0007" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0008" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0009" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0010" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0011" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0012" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0013" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Right0014" x="249" y="426" width="251" height="419" frameX="-6" frameY="0" frameWidth="257" frameHeight="419"/>
+	<SubTexture name="Joaquin Shoot0000" x="500" y="426" width="331" height="414"/>
+	<SubTexture name="Joaquin Shoot0001" x="500" y="426" width="331" height="414"/>
+	<SubTexture name="Joaquin Shoot0002" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0003" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0004" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0005" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0006" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0007" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0008" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0009" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0010" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0011" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0012" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0013" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Shoot0014" x="831" y="426" width="227" height="414" frameX="-6" frameY="0" frameWidth="331" frameHeight="414"/>
+	<SubTexture name="Joaquin Up0000" x="1058" y="426" width="261" height="416" frameX="0" frameY="-9" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0001" x="1058" y="426" width="261" height="416" frameX="0" frameY="-9" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0002" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0003" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0004" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0005" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0006" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0007" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0008" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0009" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0010" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0011" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0012" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0013" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+	<SubTexture name="Joaquin Up0014" x="1319" y="426" width="261" height="423" frameX="0" frameY="0" frameWidth="261" frameHeight="425"/>
+</TextureAtlas>

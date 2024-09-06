@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lincoln_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lincoln Down Animation0000" x="0" y="0" width="367" height="615" frameX="0" frameY="-6" frameWidth="367" frameHeight="621"/>
+	<SubTexture name="Lincoln Down Animation0001" x="0" y="0" width="367" height="615" frameX="0" frameY="-6" frameWidth="367" frameHeight="621"/>
+	<SubTexture name="Lincoln Down Animation0002" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0003" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0004" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0005" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0006" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0007" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0008" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0009" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0010" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0011" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0012" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0013" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Down Animation0014" x="367" y="0" width="367" height="621"/>
+	<SubTexture name="Lincoln Idle Animation0000" x="734" y="0" width="365" height="662" frameX="0" frameY="-21" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0001" x="734" y="0" width="365" height="662" frameX="0" frameY="-21" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0002" x="1099" y="0" width="365" height="670" frameX="-5" frameY="-13" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0003" x="1099" y="0" width="365" height="670" frameX="-5" frameY="-13" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0004" x="1464" y="0" width="364" height="675" frameX="-9" frameY="-8" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0005" x="1464" y="0" width="364" height="675" frameX="-9" frameY="-8" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0006" x="0" y="675" width="363" height="679" frameX="-12" frameY="-4" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0007" x="0" y="675" width="363" height="679" frameX="-12" frameY="-4" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0008" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0009" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0010" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0011" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0012" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0013" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Idle Animation0014" x="363" y="675" width="364" height="683" frameX="-14" frameY="0" frameWidth="378" frameHeight="683"/>
+	<SubTexture name="Lincoln Left Animation0000" x="727" y="675" width="403" height="675" frameX="0" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0001" x="727" y="675" width="403" height="675" frameX="0" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0002" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0003" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0004" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0005" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0006" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0007" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0008" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0009" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0010" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0011" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0012" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0013" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Left Animation0014" x="1130" y="675" width="397" height="675" frameX="-8" frameY="0" frameWidth="405" frameHeight="675"/>
+	<SubTexture name="Lincoln Right Animation0000" x="1527" y="675" width="364" height="669" frameX="-16" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0001" x="1527" y="675" width="364" height="669" frameX="-16" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0002" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0003" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0004" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0005" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0006" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0007" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0008" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0009" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0010" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0011" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0012" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0013" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0014" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0015" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0016" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0017" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0018" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0019" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0020" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0021" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0022" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0023" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0024" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0025" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0026" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0027" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0028" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Right Animation0029" x="0" y="1358" width="363" height="669" frameX="0" frameY="0" frameWidth="380" frameHeight="669"/>
+	<SubTexture name="Lincoln Up Animation0000" x="363" y="1358" width="364" height="686"/>
+	<SubTexture name="Lincoln Up Animation0001" x="363" y="1358" width="364" height="686"/>
+	<SubTexture name="Lincoln Up Animation0002" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0003" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0004" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0005" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0006" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0007" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0008" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0009" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0010" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0011" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0012" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0013" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+	<SubTexture name="Lincoln Up Animation0014" x="727" y="1358" width="364" height="682" frameX="0" frameY="-4" frameWidth="364" frameHeight="686"/>
+</TextureAtlas>

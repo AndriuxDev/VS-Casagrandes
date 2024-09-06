@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lana.png"><SubTexture name="Lana down0000" x="0" y="0" width="459" height="486" frameX="0" frameY="0" frameWidth="459" frameHeight="486" />
+<SubTexture name="Lana down0001" x="459" y="0" width="459" height="486" frameX="0" frameY="0" frameWidth="459" frameHeight="486" />
+<SubTexture name="Lana down0002" x="918" y="0" width="459" height="486" frameX="0" frameY="0" frameWidth="459" frameHeight="486" />
+<SubTexture name="Lana down0003" x="1377" y="0" width="459" height="486" frameX="0" frameY="0" frameWidth="459" frameHeight="486" />
+<SubTexture name="Lana down0004" x="1836" y="0" width="459" height="486" frameX="0" frameY="0" frameWidth="459" frameHeight="486" />
+<SubTexture name="Lana idle0000" x="0" y="486" width="457" height="486" frameX="0" frameY="0" frameWidth="457" frameHeight="486" />
+<SubTexture name="Lana idle0001" x="457" y="486" width="457" height="486" frameX="0" frameY="0" frameWidth="457" frameHeight="486" />
+<SubTexture name="Lana idle0002" x="914" y="486" width="457" height="486" frameX="0" frameY="0" frameWidth="457" frameHeight="486" />
+<SubTexture name="Lana idle0003" x="1371" y="486" width="457" height="486" frameX="0" frameY="0" frameWidth="457" frameHeight="486" />
+<SubTexture name="Lana idle0004" x="1828" y="486" width="457" height="486" frameX="0" frameY="0" frameWidth="457" frameHeight="486" />
+<SubTexture name="Lana left0000" x="0" y="972" width="465" height="486" frameX="0" frameY="0" frameWidth="465" frameHeight="486" />
+<SubTexture name="Lana left0001" x="465" y="972" width="465" height="486" frameX="0" frameY="0" frameWidth="465" frameHeight="486" />
+<SubTexture name="Lana left0002" x="930" y="972" width="465" height="486" frameX="0" frameY="0" frameWidth="465" frameHeight="486" />
+<SubTexture name="Lana left0003" x="1395" y="972" width="465" height="486" frameX="0" frameY="0" frameWidth="465" frameHeight="486" />
+<SubTexture name="Lana left0004" x="1860" y="972" width="465" height="486" frameX="0" frameY="0" frameWidth="465" frameHeight="486" />
+<SubTexture name="Lana right0000" x="0" y="1458" width="470" height="486" frameX="0" frameY="0" frameWidth="470" frameHeight="486" />
+<SubTexture name="Lana right0001" x="470" y="1458" width="470" height="486" frameX="0" frameY="0" frameWidth="470" frameHeight="486" />
+<SubTexture name="Lana right0002" x="940" y="1458" width="470" height="486" frameX="0" frameY="0" frameWidth="470" frameHeight="486" />
+<SubTexture name="Lana right0003" x="1410" y="1458" width="470" height="486" frameX="0" frameY="0" frameWidth="470" frameHeight="486" />
+<SubTexture name="Lana right0004" x="1880" y="1458" width="470" height="486" frameX="0" frameY="0" frameWidth="470" frameHeight="486" />
+<SubTexture name="Lana up0000" x="0" y="1944" width="454" height="500" frameX="0" frameY="0" frameWidth="454" frameHeight="500" />
+<SubTexture name="Lana up0001" x="454" y="1944" width="454" height="500" frameX="0" frameY="0" frameWidth="454" frameHeight="500" />
+<SubTexture name="Lana up0002" x="908" y="1944" width="454" height="500" frameX="0" frameY="0" frameWidth="454" frameHeight="500" />
+<SubTexture name="Lana up0003" x="1362" y="1944" width="454" height="500" frameX="0" frameY="0" frameWidth="454" frameHeight="500" />
+<SubTexture name="Lana up0004" x="1816" y="1944" width="454" height="500" frameX="0" frameY="0" frameWidth="454" frameHeight="500" />
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SBobby.png"><SubTexture name="SBobby down0000" x="0" y="0" width="343" height="747" frameX="0" frameY="0" frameWidth="343" frameHeight="747" />
+<SubTexture name="SBobby down0001" x="343" y="0" width="343" height="747" frameX="0" frameY="0" frameWidth="343" frameHeight="747" />
+<SubTexture name="SBobby down0002" x="686" y="0" width="343" height="747" frameX="0" frameY="0" frameWidth="343" frameHeight="747" />
+<SubTexture name="SBobby down0003" x="1029" y="0" width="343" height="747" frameX="0" frameY="0" frameWidth="343" frameHeight="747" />
+<SubTexture name="SBobby down0004" x="0" y="747" width="343" height="747" frameX="0" frameY="0" frameWidth="343" frameHeight="747" />
+<SubTexture name="SBobby idle0000" x="343" y="747" width="343" height="747" frameX="0" frameY="0" frameWidth="343" frameHeight="747" />
+<SubTexture name="SBobby left0000" x="686" y="747" width="351" height="750" frameX="0" frameY="0" frameWidth="351" frameHeight="750" />
+<SubTexture name="SBobby left0001" x="1037" y="747" width="351" height="750" frameX="0" frameY="0" frameWidth="351" frameHeight="750" />
+<SubTexture name="SBobby left0002" x="0" y="1497" width="351" height="750" frameX="0" frameY="0" frameWidth="351" frameHeight="750" />
+<SubTexture name="SBobby left0003" x="351" y="1497" width="351" height="750" frameX="0" frameY="0" frameWidth="351" frameHeight="750" />
+<SubTexture name="SBobby left0004" x="702" y="1497" width="351" height="750" frameX="0" frameY="0" frameWidth="351" frameHeight="750" />
+<SubTexture name="SBobby right0000" x="1053" y="1497" width="406" height="747" frameX="0" frameY="0" frameWidth="406" frameHeight="747" />
+<SubTexture name="SBobby right0001" x="0" y="2247" width="406" height="747" frameX="0" frameY="0" frameWidth="406" frameHeight="747" />
+<SubTexture name="SBobby right0002" x="406" y="2247" width="406" height="747" frameX="0" frameY="0" frameWidth="406" frameHeight="747" />
+<SubTexture name="SBobby right0003" x="812" y="2247" width="406" height="747" frameX="0" frameY="0" frameWidth="406" frameHeight="747" />
+<SubTexture name="SBobby right0004" x="1218" y="2247" width="406" height="747" frameX="0" frameY="0" frameWidth="406" frameHeight="747" />
+<SubTexture name="SBobby up0000" x="0" y="2994" width="398" height="767" frameX="0" frameY="0" frameWidth="398" frameHeight="767" />
+<SubTexture name="SBobby up0001" x="398" y="2994" width="398" height="767" frameX="0" frameY="0" frameWidth="398" frameHeight="767" />
+<SubTexture name="SBobby up0002" x="796" y="2994" width="398" height="767" frameX="0" frameY="0" frameWidth="398" frameHeight="767" />
+<SubTexture name="SBobby up0003" x="1194" y="2994" width="398" height="767" frameX="0" frameY="0" frameWidth="398" frameHeight="767" />
+<SubTexture name="SBobby up0004" x="0" y="3761" width="398" height="767" frameX="0" frameY="0" frameWidth="398" frameHeight="767" />
+</TextureAtlas>
