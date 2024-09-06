@@ -1,0 +1,5 @@
+Changes the playable character. Only works in Forestall Desire.
+
+Value 1: 
+'bf' = Changes to Boyfriend
+'pico' = Changes to pico
