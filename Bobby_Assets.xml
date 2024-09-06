@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bobby_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bobby DOWN0000" x="0" y="0" width="387" height="737"/>
+	<SubTexture name="Bobby DOWN0001" x="0" y="0" width="387" height="737"/>
+	<SubTexture name="Bobby DOWN0002" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0003" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0004" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0005" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0006" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0007" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0008" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0009" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0010" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0011" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0012" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0013" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby DOWN0014" x="387" y="0" width="387" height="729" frameX="0" frameY="-7" frameWidth="387" frameHeight="737"/>
+	<SubTexture name="Bobby IDLE0000" x="774" y="0" width="356" height="729" frameX="0" frameY="-7" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0001" x="774" y="0" width="356" height="729" frameX="0" frameY="-7" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0002" x="1130" y="0" width="352" height="728" frameX="-4" frameY="-7" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0003" x="1130" y="0" width="352" height="728" frameX="-4" frameY="-7" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0004" x="1482" y="0" width="353" height="728" frameX="-3" frameY="-7" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0005" x="1482" y="0" width="353" height="728" frameX="-3" frameY="-7" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0006" x="1835" y="0" width="352" height="735" frameX="-4" frameY="0" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0007" x="1835" y="0" width="352" height="735" frameX="-4" frameY="0" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0008" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0009" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0010" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0011" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0012" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0013" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby IDLE0014" x="2187" y="0" width="352" height="729" frameX="-4" frameY="-6" frameWidth="356" frameHeight="736"/>
+	<SubTexture name="Bobby LEFT0000" x="2539" y="0" width="380" height="729" frameX="-11" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0001" x="2539" y="0" width="380" height="729" frameX="-11" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0002" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0003" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0004" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0005" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0006" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0007" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0008" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0009" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0010" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0011" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0012" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0013" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby LEFT0014" x="2919" y="0" width="371" height="729" frameX="0" frameY="0" frameWidth="391" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0000" x="3290" y="0" width="399" height="729" frameX="0" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0001" x="3290" y="0" width="399" height="729" frameX="0" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0002" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0003" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0004" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0005" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0006" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0007" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0008" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0009" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0010" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0011" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0012" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0013" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby RIGHT0014" x="3689" y="0" width="389" height="729" frameX="-15" frameY="0" frameWidth="404" frameHeight="729"/>
+	<SubTexture name="Bobby SHOOT0000" x="0" y="737" width="411" height="721"/>
+	<SubTexture name="Bobby SHOOT0001" x="0" y="737" width="411" height="721"/>
+	<SubTexture name="Bobby SHOOT0002" x="0" y="737" width="411" height="721"/>
+	<SubTexture name="Bobby SHOOT0003" x="411" y="737" width="338" height="721" frameX="-5" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0004" x="411" y="737" width="338" height="721" frameX="-5" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0005" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0006" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0007" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0008" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0009" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0010" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0011" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0012" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0013" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby SHOOT0014" x="749" y="737" width="335" height="721" frameX="-11" frameY="0" frameWidth="411" frameHeight="721"/>
+	<SubTexture name="Bobby UP0000" x="1084" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0001" x="1084" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0002" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0003" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0004" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0005" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0006" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0007" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0008" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0009" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0010" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0011" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0012" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0013" x="1458" y="737" width="374" height="729"/>
+	<SubTexture name="Bobby UP0014" x="1458" y="737" width="374" height="729"/>
+</TextureAtlas>
