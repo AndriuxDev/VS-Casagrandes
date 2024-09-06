@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-50,
+		-100
+	],
+	"scale": 0.9,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "breather talk"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "breather angy",
+			"anim": "angy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "breather huh",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "breather sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "breather conf",
+			"anim": "confident",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "breather concern",
+			"anim": "concern",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "breather worry",
+			"anim": "worry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "breather"
+}

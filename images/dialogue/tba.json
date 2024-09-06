@@ -1,0 +1,25 @@
+{
+	"position": [
+		70,
+		50
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 2,
+	"image": "tba",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-3
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "tba update0",
+			"loop_name": ""
+		}
+	]
+}

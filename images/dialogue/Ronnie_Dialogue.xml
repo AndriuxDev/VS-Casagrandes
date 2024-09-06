@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ronalda_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ronalda Expressionless0000" x="0" y="0" width="386" height="605"/>
+	<SubTexture name="Ronalda Expressionless0001" x="0" y="0" width="386" height="605"/>
+	<SubTexture name="Ronalda Expressionless LOOP0000" x="386" y="0" width="386" height="615"/>
+	<SubTexture name="Ronalda Expressionless LOOP0001" x="386" y="0" width="386" height="615"/>
+	<SubTexture name="Ronalda Expressionless LOOP0002" x="772" y="0" width="386" height="608" frameX="0" frameY="-7" frameWidth="386" frameHeight="615"/>
+	<SubTexture name="Ronalda Expressionless LOOP0003" x="772" y="0" width="386" height="608" frameX="0" frameY="-7" frameWidth="386" frameHeight="615"/>
+	<SubTexture name="Ronalda Expressionless LOOP0004" x="0" y="0" width="386" height="605" frameX="0" frameY="-10" frameWidth="386" frameHeight="605"/>
+	<SubTexture name="Ronalda Expressionless LOOP0005" x="1158" y="0" width="386" height="611" frameX="0" frameY="-4" frameWidth="386" frameHeight="615"/>
+	<SubTexture name="Ronalda Happy0000" x="1544" y="0" width="386" height="605"/>
+	<SubTexture name="Ronalda Happy0001" x="1544" y="0" width="386" height="605"/>
+	<SubTexture name="Ronalda Happy LOOP0000" x="1930" y="0" width="369" height="607" frameX="-17" frameY="-4" frameWidth="386" frameHeight="611"/>
+	<SubTexture name="Ronalda Happy LOOP0001" x="1930" y="0" width="369" height="607" frameX="-17" frameY="-4" frameWidth="386" frameHeight="611"/>
+	<SubTexture name="Ronalda Happy LOOP0002" x="2299" y="0" width="375" height="603" frameX="-11" frameY="-8" frameWidth="386" frameHeight="611"/>
+	<SubTexture name="Ronalda Happy LOOP0003" x="2299" y="0" width="375" height="603" frameX="-11" frameY="-8" frameWidth="386" frameHeight="611"/>
+	<SubTexture name="Ronalda Happy LOOP0004" x="1544" y="0" width="386" height="605" frameX="0" frameY="-6" frameWidth="386" frameHeight="605"/>
+	<SubTexture name="Ronalda Happy LOOP0005" x="2674" y="0" width="386" height="611"/>
+	<SubTexture name="Ronalda Talk 0000" x="3060" y="0" width="386" height="605"/>
+	<SubTexture name="Ronalda Talk 0001" x="3060" y="0" width="386" height="605"/>
+	<SubTexture name="Ronalda Talk Loop0000" x="3446" y="0" width="383" height="618" frameX="-11" frameY="0" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="Ronalda Talk Loop0001" x="3446" y="0" width="383" height="618" frameX="-11" frameY="0" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="Ronalda Talk Loop0002" x="0" y="618" width="394" height="612" frameX="0" frameY="-6" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="Ronalda Talk Loop0003" x="0" y="618" width="394" height="612" frameX="0" frameY="-6" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="Ronalda Talk Loop0004" x="394" y="618" width="386" height="605" frameX="-8" frameY="-13" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="Ronalda Talk Loop0005" x="780" y="618" width="386" height="618" frameX="-8" frameY="0" frameWidth="394" frameHeight="618"/>
+	<SubTexture name="Ronalda Worried0000" x="1166" y="618" width="386" height="605"/>
+	<SubTexture name="Ronalda Worried0001" x="1166" y="618" width="386" height="605"/>
+	<SubTexture name="Ronalda Worried LOOP0000" x="1552" y="618" width="387" height="615" frameX="-6" frameY="0" frameWidth="393" frameHeight="615"/>
+	<SubTexture name="Ronalda Worried LOOP0001" x="1552" y="618" width="387" height="615" frameX="-6" frameY="0" frameWidth="393" frameHeight="615"/>
+	<SubTexture name="Ronalda Worried LOOP0002" x="1939" y="618" width="393" height="608" frameX="0" frameY="-7" frameWidth="393" frameHeight="615"/>
+	<SubTexture name="Ronalda Worried LOOP0003" x="1939" y="618" width="393" height="608" frameX="0" frameY="-7" frameWidth="393" frameHeight="615"/>
+	<SubTexture name="Ronalda Worried LOOP0004" x="2332" y="618" width="386" height="605" frameX="-7" frameY="-10" frameWidth="393" frameHeight="615"/>
+	<SubTexture name="Ronalda Worried LOOP0005" x="2718" y="618" width="386" height="599" frameX="-7" frameY="-16" frameWidth="393" frameHeight="615"/>
+</TextureAtlas>

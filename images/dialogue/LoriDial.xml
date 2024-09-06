@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LoriDial.png">
+    <SubTexture name="LoriDial lol0000" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial lol0001" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial lol0002" x="2056" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial lol0003" x="2056" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial lol0004" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial lol0005" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippedlol0000" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippedlol0001" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippedlol0002" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippedlol0003" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippedlol0004" x="2056" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippedlol0005" x="2056" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial normal0000" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial normal0001" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial normal0002" x="2056" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial normal0003" x="2056" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial normal0004" x="1028" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial normal0005" x="1028" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippednormal0000" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippednormal0001" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippednormal0002" x="0" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippednormal0003" x="0" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippednormal0004" x="2056" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial flippednormal0005" x="2056" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028"/>
+    <SubTexture name="LoriDial worry0000" x="0" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial worry0001" x="0" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial worry0002" x="1028" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial worry0003" x="1028" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial worry0004" x="2056" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LoriDial worry0005" x="2056" y="4112" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+</TextureAtlas>

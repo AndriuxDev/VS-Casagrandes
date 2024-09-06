@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CARL_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CARL ANGRY0000" x="0" y="0" width="245" height="373"/>
+	<SubTexture name="CARL ANGRY0001" x="0" y="0" width="245" height="373"/>
+	<SubTexture name="CARL ANGRY LOOP0000" x="245" y="0" width="245" height="385"/>
+	<SubTexture name="CARL ANGRY LOOP0001" x="245" y="0" width="245" height="385"/>
+	<SubTexture name="CARL ANGRY LOOP0002" x="490" y="0" width="245" height="373" frameX="0" frameY="-12" frameWidth="245" frameHeight="385"/>
+	<SubTexture name="CARL ANGRY LOOP0003" x="490" y="0" width="245" height="373" frameX="0" frameY="-12" frameWidth="245" frameHeight="385"/>
+	<SubTexture name="CARL ANGRY LOOP0004" x="735" y="0" width="245" height="373" frameX="0" frameY="-12" frameWidth="245" frameHeight="385"/>
+	<SubTexture name="CARL ANGRY LOOP0005" x="980" y="0" width="245" height="373" frameX="0" frameY="-12" frameWidth="245" frameHeight="385"/>
+	<SubTexture name="CARL HAPPY0000" x="1225" y="0" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY0001" x="1225" y="0" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY LOOP0000" x="1470" y="0" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY LOOP0001" x="1470" y="0" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY LOOP0002" x="1715" y="0" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY LOOP0003" x="1715" y="0" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY LOOP0004" x="0" y="385" width="245" height="373"/>
+	<SubTexture name="CARL HAPPY LOOP0005" x="0" y="385" width="245" height="373"/>
+	<SubTexture name="CARL MONEY0000" x="245" y="385" width="264" height="373"/>
+	<SubTexture name="CARL MONEY0001" x="245" y="385" width="264" height="373"/>
+	<SubTexture name="CARL MONEY LOOP0000" x="509" y="385" width="264" height="373" frameX="0" frameY="-6" frameWidth="264" frameHeight="379"/>
+	<SubTexture name="CARL MONEY LOOP0001" x="509" y="385" width="264" height="373" frameX="0" frameY="-6" frameWidth="264" frameHeight="379"/>
+	<SubTexture name="CARL MONEY LOOP0002" x="773" y="385" width="264" height="379"/>
+	<SubTexture name="CARL MONEY LOOP0003" x="773" y="385" width="264" height="379"/>
+	<SubTexture name="CARL MONEY LOOP0004" x="1037" y="385" width="264" height="379"/>
+	<SubTexture name="CARL MONEY LOOP0005" x="1037" y="385" width="264" height="379"/>
+	<SubTexture name="CARL TALK0000" x="1301" y="385" width="245" height="373"/>
+	<SubTexture name="CARL TALK0001" x="1301" y="385" width="245" height="373"/>
+	<SubTexture name="CARL TALK LOOP0000" x="1546" y="385" width="245" height="373" frameX="0" frameY="-4" frameWidth="245" frameHeight="381"/>
+	<SubTexture name="CARL TALK LOOP0001" x="1546" y="385" width="245" height="373" frameX="0" frameY="-4" frameWidth="245" frameHeight="381"/>
+	<SubTexture name="CARL TALK LOOP0002" x="1791" y="385" width="245" height="381"/>
+	<SubTexture name="CARL TALK LOOP0003" x="1791" y="385" width="245" height="381"/>
+	<SubTexture name="CARL TALK LOOP0004" x="0" y="766" width="245" height="381"/>
+	<SubTexture name="CARL TALK LOOP0005" x="0" y="766" width="245" height="381"/>
+</TextureAtlas>

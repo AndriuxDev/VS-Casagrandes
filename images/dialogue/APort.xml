@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="APort.png"><SubTexture name="APort annoy0000" x="0" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort bore0000" x="604" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort antsy0000" x="1208" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort cry0000" x="0" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort happy0000" x="604" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort pout0000" x="1208" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort sigh0000" x="0" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort sweat0000" x="604" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort wail0000" x="1208" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort pissed0000" x="0" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort sad0000" x="604" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort shadow0000" x="1208" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort smug0000" x="0" y="2416" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="APort worry0000" x="604" y="2416" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+</TextureAtlas>

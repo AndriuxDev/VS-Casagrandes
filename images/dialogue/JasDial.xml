@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JasDial.png">
+<SubTexture name="jasm normal0000" x="0" y="0" width="331" height="649" frameX="-10" frameY="0" frameWidth="436" frameHeight="649" />
+<SubTexture name="jasm wut0000" x="331" y="0" width="425" height="649" frameX="-10" frameY="0" frameWidth="436" frameHeight="649" />
+<SubTexture name="jasm ugh0000" x="0" y="649" width="361" height="636" frameX="-10" frameY="-13" frameWidth="436" frameHeight="649" />
+<SubTexture name="jasm whatevs0000" x="756" y="0" width="436" height="649" frameX="0" frameY="0" frameWidth="436" frameHeight="649" />
+<SubTexture name="jasm flatter0000" x="1192" y="0" width="312" height="649" frameX="-10" frameY="0" frameWidth="436" frameHeight="649" />
+</TextureAtlas>

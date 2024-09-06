@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LolaDial.png">
+    <SubTexture name="LolaDial angy0000" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial angy0001" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial angy0002" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial angy0003" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial angy0004" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial angy0005" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial fury0000" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial fury0001" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial fury0002" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial fury0003" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial fury0004" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LolaDial fury0005" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+</TextureAtlas>

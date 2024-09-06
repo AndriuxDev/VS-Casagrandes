@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sidney_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sidney Confused0000" x="0" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused0001" x="0" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused Loop0000" x="0" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused Loop0001" x="0" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused Loop0002" x="221" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused Loop0003" x="221" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused Loop0004" x="0" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Confused Loop0005" x="0" y="0" width="221" height="201"/>
+	<SubTexture name="Sidney Happy 0000" x="442" y="0" width="143" height="195"/>
+	<SubTexture name="Sidney Happy 0001" x="442" y="0" width="143" height="195"/>
+	<SubTexture name="Sidney Happy Loop0000" x="585" y="0" width="144" height="197" frameX="-2" frameY="0" frameWidth="149" frameHeight="197"/>
+	<SubTexture name="Sidney Happy Loop0001" x="585" y="0" width="144" height="197" frameX="-2" frameY="0" frameWidth="149" frameHeight="197"/>
+	<SubTexture name="Sidney Happy Loop0002" x="729" y="0" width="142" height="194" frameX="0" frameY="-3" frameWidth="149" frameHeight="197"/>
+	<SubTexture name="Sidney Happy Loop0003" x="729" y="0" width="142" height="194" frameX="0" frameY="-3" frameWidth="149" frameHeight="197"/>
+	<SubTexture name="Sidney Happy Loop0004" x="871" y="0" width="143" height="195" frameX="-6" frameY="-2" frameWidth="149" frameHeight="197"/>
+	<SubTexture name="Sidney Happy Loop0005" x="0" y="201" width="143" height="197" frameX="-6" frameY="0" frameWidth="149" frameHeight="197"/>
+	<SubTexture name="Sidney Talk0000" x="143" y="201" width="143" height="195"/>
+	<SubTexture name="Sidney Talk0001" x="143" y="201" width="143" height="195"/>
+	<SubTexture name="Sidney Talk Loop0000" x="286" y="201" width="144" height="197" frameX="-2" frameY="0" frameWidth="146" frameHeight="197"/>
+	<SubTexture name="Sidney Talk Loop0001" x="286" y="201" width="144" height="197" frameX="-2" frameY="0" frameWidth="146" frameHeight="197"/>
+	<SubTexture name="Sidney Talk Loop0002" x="430" y="201" width="144" height="197" frameX="-2" frameY="0" frameWidth="146" frameHeight="197"/>
+	<SubTexture name="Sidney Talk Loop0003" x="574" y="201" width="143" height="194" frameX="0" frameY="-3" frameWidth="146" frameHeight="197"/>
+	<SubTexture name="Sidney Talk Loop0004" x="143" y="201" width="143" height="195" frameX="-2" frameY="-2" frameWidth="143" frameHeight="195"/>
+	<SubTexture name="Sidney Talk Loop0005" x="717" y="201" width="143" height="197" frameX="-2" frameY="0" frameWidth="146" frameHeight="197"/>
+</TextureAtlas>

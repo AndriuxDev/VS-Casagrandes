@@ -1,0 +1,193 @@
+{
+	"position": [
+		-20,
+		-60
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "APortF",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "annoy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort annoy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bore",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort bore"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "antsy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort antsy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort cry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort happy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pout",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort pout"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sigh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort sigh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sweat",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort sweat"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "wail",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort wail"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort pissed"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort sad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shadow",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort shadow"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort smug"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "worry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "APort worry"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LincDial.png">
+    <SubTexture name="LincDial huh0000" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial huh0001" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial huh0002" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial huh0003" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial huh0004" x="2056" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial huh0005" x="2056" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial oops0000" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial oops0001" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial oops0002" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial oops0003" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial oops0004" x="2056" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial oops0005" x="2056" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial talk0000" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial talk0001" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial talk0002" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial talk0003" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial talk0004" x="2056" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial talk0005" x="2056" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial bruh0000" x="0" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial bruh0001" x="0" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial bruh0002" x="1028" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial bruh0003" x="1028" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial bruh0004" x="2056" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LincDial bruh0005" x="2056" y="3084" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LucyDial.png">
+    <SubTexture name="LucyDial happy0000" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial happy0001" x="0" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial happy0002" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial happy0003" x="1028" y="0" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial happy0004" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial happy0005" x="0" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial talk0000" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial talk0001" x="1028" y="1028" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial talk0002" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial talk0003" x="0" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial talk0004" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+    <SubTexture name="LucyDial talk0005" x="1028" y="2056" width="1028" height="1028" frameX="0" frameY="0" frameWidth="1028" frameHeight="1028" />
+</TextureAtlas>

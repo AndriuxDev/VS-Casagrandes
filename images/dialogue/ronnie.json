@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		-20
+	],
+	"scale": 0.85,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				-3
+			],
+			"loop_name": "Ronalda Talk Loop",
+			"idle_name": "Ronalda Talk0"
+		},
+		{
+			"loop_name": "Ronalda Happy LOOP",
+			"idle_offsets": [
+				0,
+				-3
+			],
+			"idle_name": "Ronalda Happy0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Ronalda Expressionless LOOP",
+			"idle_offsets": [
+				-5,
+				-6
+			],
+			"idle_name": "Ronalda Expressionless0",
+			"anim": "blank",
+			"loop_offsets": [
+				-5,
+				0
+			]
+		},
+		{
+			"loop_name": "Ronalda Worried LOOP",
+			"idle_offsets": [
+				-6,
+				-4
+			],
+			"idle_name": "Ronalda Worried0",
+			"anim": "worry",
+			"loop_offsets": [
+				-2,
+				0
+			]
+		}
+	],
+	"image": "Ronnie_Dialogue"
+}

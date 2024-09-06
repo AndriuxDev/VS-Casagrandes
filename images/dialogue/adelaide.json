@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-30
+	],
+	"scale": 0.8,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_offsets": [
+				-9,
+				0
+			],
+			"loop_name": "Adelaide Talk LOOP",
+			"idle_name": "Adelaide Talk0"
+		},
+		{
+			"loop_name": "Adelaide Worried LOOP",
+			"idle_offsets": [
+				-5,
+				-2
+			],
+			"idle_name": "Adelaide Worried0",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Adelaide Happy LOOP",
+			"idle_offsets": [
+				-10,
+				-1
+			],
+			"idle_name": "Adelaide Happy 0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Adelaide Happy LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Adelaide Happy 0",
+			"anim": "stars",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Adelaide Annoyed LOOP",
+			"idle_offsets": [
+				-7,
+				-2
+			],
+			"idle_name": "Adelaide Annoyed0",
+			"anim": "annoy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Dialogue_Adelaide"
+}

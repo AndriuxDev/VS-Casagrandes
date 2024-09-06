@@ -1,0 +1,76 @@
+{
+	"position": [
+		100,
+		60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "JasDial",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "jasm normal0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "jasm wut0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ugh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "jasm ugh0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "duh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "jasm whatevs0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "flirty",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "",
+			"idle_name": "jasm flatter0"
+		}
+	]
+}

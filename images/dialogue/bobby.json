@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Bobby Angry LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Bobby Angry0",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Bobby HAPPY LOOP",
+			"idle_offsets": [
+				-11,
+				-2
+			],
+			"idle_name": "Bobby HAPPY0",
+			"anim": "happy",
+			"loop_offsets": [
+				-5,
+				0
+			]
+		},
+		{
+			"loop_name": "Bobby DOUBTFUL LOOP",
+			"idle_offsets": [
+				-11,
+				-4
+			],
+			"idle_name": "Bobby DOUBTFUL0",
+			"anim": "doubtful",
+			"loop_offsets": [
+				-11,
+				-4
+			]
+		},
+		{
+			"loop_name": "Bobby TALK LOOP",
+			"idle_offsets": [
+				-11,
+				-10
+			],
+			"idle_name": "Bobby TALK0",
+			"anim": "talk",
+			"loop_offsets": [
+				-9,
+				-8
+			]
+		}
+	],
+	"image": "Bobby_Dialogue"
+}

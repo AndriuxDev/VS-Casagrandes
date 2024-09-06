@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue_Adelaide.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Adelaide Annoyed0000" x="0" y="0" width="468" height="574"/>
+	<SubTexture name="Adelaide Annoyed0001" x="0" y="0" width="468" height="574"/>
+	<SubTexture name="Adelaide Annoyed LOOP0000" x="468" y="0" width="467" height="577" frameX="-9" frameY="0" frameWidth="480" frameHeight="577"/>
+	<SubTexture name="Adelaide Annoyed LOOP0001" x="468" y="0" width="467" height="577" frameX="-9" frameY="0" frameWidth="480" frameHeight="577"/>
+	<SubTexture name="Adelaide Annoyed LOOP0002" x="935" y="0" width="467" height="574" frameX="0" frameY="-3" frameWidth="480" frameHeight="577"/>
+	<SubTexture name="Adelaide Annoyed LOOP0003" x="935" y="0" width="467" height="574" frameX="0" frameY="-3" frameWidth="480" frameHeight="577"/>
+	<SubTexture name="Adelaide Annoyed LOOP0004" x="0" y="0" width="468" height="574" frameX="-12" frameY="-3" frameWidth="468" frameHeight="574"/>
+	<SubTexture name="Adelaide Annoyed LOOP0005" x="0" y="0" width="468" height="574" frameX="-12" frameY="-3" frameWidth="468" frameHeight="574"/>
+	<SubTexture name="Adelaide Happy 0000" x="1402" y="0" width="468" height="574"/>
+	<SubTexture name="Adelaide Happy 0001" x="1402" y="0" width="468" height="574"/>
+	<SubTexture name="Adelaide Happy LOOP0000" x="1870" y="0" width="466" height="578" frameX="0" frameY="0" frameWidth="487" frameHeight="578"/>
+	<SubTexture name="Adelaide Happy LOOP0001" x="1870" y="0" width="466" height="578" frameX="0" frameY="0" frameWidth="487" frameHeight="578"/>
+	<SubTexture name="Adelaide Happy LOOP0002" x="2336" y="0" width="467" height="577" frameX="-9" frameY="-1" frameWidth="487" frameHeight="578"/>
+	<SubTexture name="Adelaide Happy LOOP0003" x="2336" y="0" width="467" height="577" frameX="-9" frameY="-1" frameWidth="487" frameHeight="578"/>
+	<SubTexture name="Adelaide Happy LOOP0004" x="1402" y="0" width="468" height="574" frameX="-19" frameY="-4" frameWidth="468" frameHeight="574"/>
+	<SubTexture name="Adelaide Talk0000" x="2803" y="0" width="468" height="574"/>
+	<SubTexture name="Adelaide Talk0001" x="2803" y="0" width="468" height="574"/>
+	<SubTexture name="Adelaide Talk LOOP0000" x="3271" y="0" width="467" height="575" frameX="0" frameY="-3" frameWidth="475" frameHeight="578"/>
+	<SubTexture name="Adelaide Talk LOOP0001" x="3271" y="0" width="467" height="575" frameX="0" frameY="-3" frameWidth="475" frameHeight="578"/>
+	<SubTexture name="Adelaide Talk LOOP0002" x="0" y="578" width="468" height="574" frameX="-6" frameY="-4" frameWidth="475" frameHeight="578"/>
+	<SubTexture name="Adelaide Talk LOOP0003" x="0" y="578" width="468" height="574" frameX="-6" frameY="-4" frameWidth="475" frameHeight="578"/>
+	<SubTexture name="Adelaide Talk LOOP0004" x="468" y="578" width="468" height="574" frameX="-7" frameY="0" frameWidth="475" frameHeight="578"/>
+	<SubTexture name="Adelaide Talk LOOP0005" x="468" y="578" width="468" height="574" frameX="-7" frameY="0" frameWidth="475" frameHeight="578"/>
+	<SubTexture name="Adelaide Worried0000" x="936" y="578" width="468" height="574"/>
+	<SubTexture name="Adelaide Worried0001" x="936" y="578" width="468" height="574"/>
+	<SubTexture name="Adelaide Worried LOOP0000" x="1404" y="578" width="466" height="580" frameX="0" frameY="0" frameWidth="476" frameHeight="580"/>
+	<SubTexture name="Adelaide Worried LOOP0001" x="1404" y="578" width="466" height="580" frameX="0" frameY="0" frameWidth="476" frameHeight="580"/>
+	<SubTexture name="Adelaide Worried LOOP0002" x="1870" y="578" width="466" height="565" frameX="-8" frameY="-15" frameWidth="476" frameHeight="580"/>
+	<SubTexture name="Adelaide Worried LOOP0003" x="1870" y="578" width="466" height="565" frameX="-8" frameY="-15" frameWidth="476" frameHeight="580"/>
+	<SubTexture name="Adelaide Worried LOOP0004" x="2336" y="578" width="468" height="574" frameX="-8" frameY="-6" frameWidth="476" frameHeight="580"/>
+</TextureAtlas>

@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-60
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin angry0",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin bruh0",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin complain0",
+			"anim": "comp",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin confident0",
+			"anim": "conf",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin flirty0",
+			"anim": "flirty",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin sad0",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin sidetalk0",
+			"anim": "btw",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin smile0",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin unamused0",
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "joaquin wut0",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "joaquin"
+}

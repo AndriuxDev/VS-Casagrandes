@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-175,
+				-15
+			],
+			"idle_offsets": [
+				-175,
+				-15
+			],
+			"loop_name": "CARL TALK LOOP",
+			"idle_name": "CARL TALK0"
+		},
+		{
+			"loop_name": "CARL ANGRY LOOP",
+			"idle_offsets": [
+				-175,
+				-15
+			],
+			"idle_name": "CARL ANGRY0",
+			"anim": "angry",
+			"loop_offsets": [
+				-175,
+				-15
+			]
+		},
+		{
+			"loop_name": "CARL HAPPY LOOP",
+			"idle_offsets": [
+				-175,
+				-15
+			],
+			"idle_name": "CARL HAPPY0",
+			"anim": "happy",
+			"loop_offsets": [
+				-175,
+				-15
+			]
+		},
+		{
+			"loop_name": "CARL MONEY LOOP",
+			"idle_offsets": [
+				-175,
+				-15
+			],
+			"idle_name": "CARL MONEY0",
+			"anim": "money",
+			"loop_offsets": [
+				-175,
+				-15
+			]
+		}
+	],
+	"image": "CARL_Dialogue"
+}

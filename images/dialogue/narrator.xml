@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="narrator.png">
+    <SubTexture name="narrator idle0000" x="0" y="0" width="639" height="478" frameX="0" frameY="0" frameWidth="639" frameHeight="478" />
+</TextureAtlas>

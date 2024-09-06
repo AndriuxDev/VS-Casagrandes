@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-210,
+		-270
+	],
+	"scale": 0.599999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "LincDial talk",
+			"idle_name": "LincDial talk0000"
+		},
+		{
+			"loop_name": "LincDial bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "LincDial bruh0000",
+			"anim": "wtf",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "LincDial oops",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "LincDial oops0000",
+			"anim": "oops",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "LincDial huh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "LincDial huh0000",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "LincDial"
+}

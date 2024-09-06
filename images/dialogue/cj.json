@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		-50
+	],
+	"scale": 0.9,
+	"animations": [
+		{
+			"loop_name": "CJ ANNOYED LOOP",
+			"idle_offsets": [
+				-10,
+				-15
+			],
+			"idle_name": "CJ ANNOYED0",
+			"anim": "annoyed",
+			"loop_offsets": [
+				-10,
+				-10
+			]
+		},
+		{
+			"loop_name": "CJ HAPPY LOOP",
+			"idle_offsets": [
+				0,
+				-5
+			],
+			"idle_name": "CJ HAPPY0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				-5
+			]
+		},
+		{
+			"loop_name": "CJ TALK LOOP",
+			"idle_offsets": [
+				-10,
+				-10
+			],
+			"idle_name": "CJ TALK0",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "CJ_Dialogue"
+}

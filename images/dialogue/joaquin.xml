@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="joaquin.png"><SubTexture name="joaquin angry0000" x="0" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin bruh0000" x="604" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin complain0000" x="1208" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin confident0000" x="0" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin flirty0000" x="604" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin sad0000" x="1208" y="604" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin sidetalk0000" x="0" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin smile0000" x="604" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin smirk0000" x="1208" y="1208" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin unamused0000" x="0" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="joaquin wut0000" x="604" y="1812" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+</TextureAtlas>

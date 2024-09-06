@@ -1,0 +1,51 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		210,
+		160
+	],
+	"no_antialiasing": false,
+	"scale": 2.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-3,
+				-5
+			],
+			"loop_name": "Sidney Talk Loop",
+			"idle_name": "Sidney Talk0"
+		},
+		{
+			"loop_name": "Sidney Happy Loop",
+			"idle_offsets": [
+				7,
+				0
+			],
+			"idle_name": "Sidney Happy0",
+			"anim": "happy",
+			"loop_offsets": [
+				7,
+				0
+			]
+		},
+		{
+			"loop_name": "Sidney Confused Loop",
+			"idle_offsets": [
+				-3,
+				7
+			],
+			"idle_name": "Sidney Confused0",
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				7
+			]
+		}
+	],
+	"image": "Sidney_Dialogue"
+}

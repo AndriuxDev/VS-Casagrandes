@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bobby_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bobby ANGRY 0000" x="0" y="0" width="275" height="470"/>
+	<SubTexture name="Bobby ANGRY 0001" x="0" y="0" width="275" height="470"/>
+	<SubTexture name="Bobby Angry LOOP0000" x="275" y="0" width="276" height="476" frameX="-3" frameY="0" frameWidth="289" frameHeight="477"/>
+	<SubTexture name="Bobby Angry LOOP0001" x="275" y="0" width="276" height="476" frameX="-3" frameY="0" frameWidth="289" frameHeight="477"/>
+	<SubTexture name="Bobby Angry LOOP0002" x="551" y="0" width="276" height="472" frameX="0" frameY="-5" frameWidth="289" frameHeight="477"/>
+	<SubTexture name="Bobby Angry LOOP0003" x="551" y="0" width="276" height="472" frameX="0" frameY="-5" frameWidth="289" frameHeight="477"/>
+	<SubTexture name="Bobby Angry LOOP0004" x="827" y="0" width="275" height="470" frameX="-14" frameY="-6" frameWidth="289" frameHeight="477"/>
+	<SubTexture name="Bobby Angry LOOP0005" x="1102" y="0" width="275" height="470" frameX="-14" frameY="-6" frameWidth="289" frameHeight="477"/>
+	<SubTexture name="Bobby DOUBTFUL0000" x="1377" y="0" width="365" height="470"/>
+	<SubTexture name="Bobby DOUBTFUL0001" x="1377" y="0" width="365" height="470"/>
+	<SubTexture name="Bobby DOUBTFUL LOOP0000" x="0" y="476" width="360" height="470" frameX="-5" frameY="0" frameWidth="365" frameHeight="471"/>
+	<SubTexture name="Bobby DOUBTFUL LOOP0001" x="0" y="476" width="360" height="470" frameX="-5" frameY="0" frameWidth="365" frameHeight="471"/>
+	<SubTexture name="Bobby DOUBTFUL LOOP0002" x="360" y="476" width="363" height="471" frameX="-2" frameY="0" frameWidth="365" frameHeight="471"/>
+	<SubTexture name="Bobby DOUBTFUL LOOP0003" x="360" y="476" width="363" height="471" frameX="-2" frameY="0" frameWidth="365" frameHeight="471"/>
+	<SubTexture name="Bobby DOUBTFUL LOOP0004" x="723" y="476" width="365" height="462" frameX="0" frameY="-8" frameWidth="365" frameHeight="471"/>
+	<SubTexture name="Bobby DOUBTFUL LOOP0005" x="723" y="476" width="365" height="462" frameX="0" frameY="-8" frameWidth="365" frameHeight="471"/>
+	<SubTexture name="Bobby HAPPY0000" x="1088" y="476" width="275" height="470"/>
+	<SubTexture name="Bobby HAPPY0001" x="1088" y="476" width="275" height="470"/>
+	<SubTexture name="Bobby HAPPY LOOP0000" x="1363" y="476" width="276" height="474" frameX="0" frameY="0" frameWidth="282" frameHeight="474"/>
+	<SubTexture name="Bobby HAPPY LOOP0001" x="1363" y="476" width="276" height="474" frameX="0" frameY="0" frameWidth="282" frameHeight="474"/>
+	<SubTexture name="Bobby HAPPY LOOP0002" x="1639" y="476" width="276" height="470" frameX="0" frameY="-4" frameWidth="282" frameHeight="474"/>
+	<SubTexture name="Bobby HAPPY LOOP0003" x="1639" y="476" width="276" height="470" frameX="0" frameY="-4" frameWidth="282" frameHeight="474"/>
+	<SubTexture name="Bobby HAPPY LOOP0004" x="0" y="950" width="275" height="470" frameX="-7" frameY="-4" frameWidth="282" frameHeight="474"/>
+	<SubTexture name="Bobby HAPPY LOOP0005" x="275" y="950" width="275" height="470" frameX="-7" frameY="-4" frameWidth="282" frameHeight="474"/>
+	<SubTexture name="Bobby TALK0000" x="550" y="950" width="275" height="470"/>
+	<SubTexture name="Bobby TALK0001" x="550" y="950" width="275" height="470"/>
+	<SubTexture name="Bobby TALK LOOP0000" x="825" y="950" width="275" height="470" frameX="0" frameY="-3" frameWidth="279" frameHeight="473"/>
+	<SubTexture name="Bobby TALK LOOP0001" x="825" y="950" width="275" height="470" frameX="0" frameY="-3" frameWidth="279" frameHeight="473"/>
+	<SubTexture name="Bobby TALK LOOP0002" x="1100" y="950" width="275" height="472" frameX="-4" frameY="0" frameWidth="279" frameHeight="473"/>
+	<SubTexture name="Bobby TALK LOOP0003" x="1100" y="950" width="275" height="472" frameX="-4" frameY="0" frameWidth="279" frameHeight="473"/>
+	<SubTexture name="Bobby TALK LOOP0004" x="1375" y="950" width="275" height="470" frameX="-2" frameY="-3" frameWidth="279" frameHeight="473"/>
+	<SubTexture name="Bobby TALK LOOP0005" x="1650" y="950" width="275" height="470" frameX="-2" frameY="-3" frameWidth="279" frameHeight="473"/>
+</TextureAtlas>
