@@ -5,7 +5,7 @@
 				0,
 				[
 					[
-						"Light",
+						"Flash Camera White",
 						"1",
 						""
 					]
@@ -48,6 +48,21 @@
 						"Set Cam Zoom",
 						"0.9",
 						"1"
+					],
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
 					]
 				]
 			],
@@ -55,8 +70,18 @@
 				43885.7142857143,
 				[
 					[
-						"Light",
-						"1",
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				65828.5714285714,
+				[
+					[
+						"Flash Camera White",
+						"2",
 						""
 					]
 				]
@@ -65,8 +90,18 @@
 				90514.2857142856,
 				[
 					[
-						"Light",
-						"1",
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				112457.142857143,
+				[
+					[
+						"Flash Camera White",
+						"2",
 						""
 					]
 				]
@@ -80,8 +115,8 @@
 						"1"
 					],
 					[
-						"Goodbye Hud",
-						"0",
+						"Hud Fade",
+						"1",
 						"1"
 					]
 				]
@@ -90,14 +125,44 @@
 				137142.857142857,
 				[
 					[
-						"Light",
-						"1",
+						"Flash Camera White",
+						"2",
 						""
 					],
 					[
-						"Goodbye Hud",
-						"100",
-						"1"
+						"Hud Fade",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				159085.714285714,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				170057.142857143,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				186514.285714286,
+				[
+					[
+						"Flash Camera White",
+						"2",
+						""
 					]
 				]
 			],
@@ -107,7 +172,7 @@
 					[
 						"Change Scroll Speed",
 						"0.4",
-						"0"
+						"1"
 					]
 				]
 			],
@@ -115,13 +180,8 @@
 				192000,
 				[
 					[
-						"Change Character",
-						"1",
-						"sponge2"
-					],
-					[
-						"Light",
-						"1",
+						"Flash Camera White",
+						"4",
 						""
 					]
 				]
