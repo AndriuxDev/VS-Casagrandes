@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-10,
+		-60
+	],
+	"scale": 1.2,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial normal",
+			"idle_name": "puzzlesdial normal"
+		},
+		{
+			"anim": "grin",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial grin",
+			"idle_name": "puzzlesdial grin"
+		},
+		{
+			"anim": "annoy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial annoy",
+			"idle_name": "puzzlesdial annoy"
+		},
+		{
+			"anim": "bargain",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial bargain",
+			"idle_name": "puzzlesdial bargain"
+		},
+		{
+			"anim": "evil",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial evil",
+			"idle_name": "puzzlesdial evil"
+		},
+		{
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial huh",
+			"idle_name": "puzzlesdial huh"
+		},
+		{
+			"anim": "404",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial 404",
+			"idle_name": "puzzlesdial 404"
+		},
+		{
+			"anim": "off",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "puzzlesdial off",
+			"idle_name": "puzzlesdial off"
+		}
+	],
+	"image": "puzzlesdial"
+}

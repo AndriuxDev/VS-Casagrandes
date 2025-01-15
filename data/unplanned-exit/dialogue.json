@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriux",
+			"boxState": "normal",
+			"expression": "annoy",
+			"text": "Welp... that was something."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.14,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriux",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Where are we now? Hell if I know..."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I... think we know where we are..."
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "wink",
+			"text": "What up, dummies?"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "normal",
+			"expression": "sweat",
+			"text": "Uhhh... who're you supposed to be...?"
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "closed",
+			"text": "Ah... confused, are you? That's alright, happens to anyone who enters here first time."
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "wide",
+			"text": "I'm Jax. This here is the ''Amazing Digital Circus''."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Digital... Circus?"
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "side",
+			"text": "Yup, who you just fought was my friend Pomni. Y'know, that clown girl who's currently crying on that corner."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep skedah bap! (Say, I think you could use a fight of your size--)"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriux",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Boyfriend, remember, we're here to know the source of those dark forces. We've got no time for rap battles at a circus."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep... (Darn...)"
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "Dark forces, you say?"
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "uhh",
+			"text": "Look, I'm no expert on that. In fact, Caine is pretty much busy with a lot of things."
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "But I suggest you'd go ask that SMG4 guy people are talking about."
+		},
+		{
+			"sound": "talk/gftalk",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So SMG4 knows how to fix this..."
+		},
+		{
+			"sound": "talk/bftalk",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Ske eeskaabop? (Think you can take us to him?)"
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "closed",
+			"text": "Well, I'm a bunny of word, so yeah. I'll gladly tell you how to get to him..."
+		},
+		{
+			"sound": "talk/jaxtalk",
+			"speed": 0.05,
+			"portrait": "jax",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "...if you can beat me in a singing contest, that is."
+		}
+	]
+}

@@ -1,0 +1,244 @@
+{
+	"dialogue": [
+		{
+			"expression": "grin",
+			"text": "Well, well, well... look who decided to show up.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "shadow",
+			"text": "Mister Puzzles... We meet again.",
+			"boxState": "normal",
+			"portrait": "andriuxF",
+			"speed": 0.05,
+			"sound": "talk/andytalk"
+		},
+		{
+			"expression": "annoy",
+			"text": "Ah, Sailor Andriux... I see you brought your blue-haired maniac and his little fiends into this wasteland.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "grin",
+			"text": "But don't think I'm outnumbered in this one match. I have one last trick up my sleeve...",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "sweat",
+			"text": "One last trick? What the hell are you talking about--",
+			"boxState": "normal",
+			"portrait": "andriuxF",
+			"speed": 0.05,
+			"sound": "talk/andytalk"
+		},
+		{
+			"expression": "confident",
+			"text": "What's up, bitches!!!",
+			"boxState": "angry",
+			"portrait": "breather",
+			"speed": 0.05,
+			"sound": "talk/johntalk"
+		},
+		{
+			"expression": "confused",
+			"text": "B-Beep?! (J... John...?!)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "talk/bftalk"
+		},
+		{
+			"expression": "bargain",
+			"text": "Ah, it seems you've forgotten... I'm not just some villain, I'm a mastermind.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "pout",
+			"text": "What in the name of the moon are you talking about?!",
+			"boxState": "normal",
+			"portrait": "andriuxF",
+			"speed": 0.05,
+			"sound": "talk/andytalk"
+		},
+		{
+			"expression": "grin",
+			"text": "You think you've won, don't you? That you've redeemed your little friends... Joaquin and Mickey?",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "huh",
+			"text": "Well, guess what? They weren't powerful enough to stop all of you.",
+			"boxState": "normal",
+			"sound": "talk/puzzletalk",
+			"speed": 0.05,
+			"portrait": "puzzles"
+		},
+		{
+			"expression": "bruh",
+			"text": "So let us get this straight... You still have that diaper boy as your last pawn?",
+			"boxState": "normal",
+			"portrait": "joaquin",
+			"speed": 0.05,
+			"sound": "talk/joaqtalk"
+		},
+		{
+			"expression": "bargain",
+			"text": "Precisely. John is my last puppet, my perfect weapon. But I'm not just stopping there.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "evil",
+			"text": "You see, I've found the real key to my power while you were prancing around like little lambs... YouTube.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "confused",
+			"text": "YouTube...?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "talk/gftalk"
+		},
+		{
+			"expression": "annoy",
+			"text": "Yes, that platform of endless reach, filled with millions of unsuspecting fools.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin",
+			"boxState": "normal",
+			"expression": "comp",
+			"text": "So that explains why all these YouTubers are killed without a single warning..."
+		},
+		{
+			"expression": "upset",
+			"text": "And you're planning to use YouTube to take over the world?! You're more evil than the Mad Doctor if I so say myself!",
+			"boxState": "angry",
+			"portrait": "oswald",
+			"speed": 0.05,
+			"sound": "talk/oswaldtalk"
+		},
+		{
+			"expression": "angry",
+			"text": "After all you've done to all of us? Boy, ya sure are a demential freak!",
+			"boxState": "angry",
+			"sound": "talk/joaqtalk",
+			"speed": 0.05,
+			"portrait": "joaquin"
+		},
+		{
+			"sound": "talk/andytalk",
+			"speed": 0.05,
+			"portrait": "andriuxF",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "These guys are more than correct, Mister Perfection Man. YOU'RE A MANIPULATIVE BITCH!!!"
+		},
+		{
+			"expression": "bargain",
+			"text": "Say all you want, but I have finally cracked the code to world domination... and you all got here too little too late.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "grin",
+			"text": "The algorithm, the subscribers, the influence... I'll manipulate it all. Soon, I'll control the masses, and nothing will stop me.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "worry",
+			"text": "Wait... What are you saying? I... I don't understand...",
+			"boxState": "normal",
+			"portrait": "breather",
+			"speed": 0.05,
+			"sound": "talk/johntalk"
+		},
+		{
+			"expression": "huh",
+			"text": "Of course you don't, John. You're just a pawn in my game. But soon, you'll see the truth.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "evil",
+			"text": "The power of the internet is the future of everything. And said power will be more than enough to stop you all.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "pissed",
+			"text": "You're wrong, Puzzles. We won't let you use John like this. We'll stop your right here and now!",
+			"boxState": "angry",
+			"portrait": "andriuxF",
+			"speed": 0.05,
+			"sound": "talk/andytalk"
+		},
+		{
+			"expression": "grin",
+			"text": "Try all you want. But in the end, I'll have the last laugh. And the world will be mine.",
+			"boxState": "normal",
+			"portrait": "puzzles",
+			"speed": 0.05,
+			"sound": "talk/puzzletalk"
+		},
+		{
+			"expression": "shadow",
+			"text": "We'll see about that.",
+			"boxState": "normal",
+			"portrait": "andriuxF",
+			"speed": 0.05,
+			"sound": "talk/andytalk"
+		},
+		{
+			"expression": "smug",
+			"text": "C'mon, BF! Let's show this bastard who's boss around here!",
+			"boxState": "angry",
+			"portrait": "andriuxF",
+			"speed": 0.05,
+			"sound": "talk/andytalk"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep! (Count me in!)",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "talk/bftalk"
+		}
+	]
+}

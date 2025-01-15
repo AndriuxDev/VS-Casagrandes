@@ -1,6 +1,6 @@
 VS Casagrandes Team
 Gato Arabe::gatoarabe::Ex-Director and Animator/Artist.::https://twitter.com/Gato_Arabe59::0xFFc97328
-AndriuxDev::andriuxdev::Main Director, Animator, Composer and Coder.\nAutistic Blast: Anxious Beats will be released in 2024!\nFNF: Funkin' with the Doodlebops will be released in 2025!::https://twitter.com/RageQuartz::0xFFFF0000
+AndriuxDev::andriuxdev::Main Director, Animator, Composer and Coder.::https://twitter.com/RageQuartz::0xFFFF0000
 A Egg::egg::Guest Artist.::https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/error-404-NOT-FOUND.jpg::0xFFFFFFFF
 Lulu::lulu::Guest Music Composer.::https://www.youtube.com/channel/UCe890ofs58VGEosQQlxEcjw::0xFF626363
 MochiisHERE::mochi::Helper Artist for the Project L.O.U.D. Update.::https://twitter.com/Keith68506553::0xFF7d0e0e
@@ -11,7 +11,7 @@ Soundraw.io::soundrawio::Thanks to them for the inspiration!::soundraw.io::0xFFf
 SlightlyCreative::slightly::Creator of the Ready or Not MIDI file::https://www.youtube.com/@SlightlyCreative::0xFFa1823f
 Face Chartex::sandy::Guest Charter and Creator of Vs Spongebob Madness.::https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/error-404-NOT-FOUND.jpg::0xFF854e82
 CrashieToony::crashie::Guest Artist for the Chang Week's sprites.::https://twitter.com/CrashieToony::0xFFff8d57
-Logan DW Abner::logan::Returning supporter of this mod. "FNF: Logan's Mixtape" is in hiatus at this moment in time.::https://steamcommunity.com/id/LoganDWAbner/::0xFF3a9eff
+Logan DW Abner::logan::Returning supporter of this mod.::https://steamcommunity.com/id/LoganDWAbner/::0xFF3a9eff
 Drakefox16::drake::Extra Composer::https://www.twitch.tv/twitchyfox16::0xFFff4d4d
 Fire Squid Cookie::fsc::Supporter of this mod.::https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/error-404-NOT-FOUND.jpg::0xFFFF0000
 im_stupid_like_fr::jasmine::Composer of "Closed Funk" & owner of Joaquin & Jasmine. Former AndriuxDev hater, now friend of his.::https://matob.web.id/random/wp-content/uploads/sites/2/2021/12/error-404-NOT-FOUND.jpg::0xFF00aaff
@@ -19,8 +19,6 @@ Nickelodeon::nick::Creators of The Casagrandes and The Loud House::https://www.n
 Disney::bigd::Owners of Mickey Mouse and Oswald the Lucky Rabbit and creators of "Primos".::https://www.disney.com/::0xFFffffff
 Members of the Holy Bread...?
 Thomas The Train::bread::Fresh bread, fresh bread...::https://www.youtube.com/watch?v=QL_MA9kQ-0o::0xFFf7d519
-Join the Discord Server!
-VS Casagrandes Discord Server::discord::The Official VS Casagrandes Server for updates and announcements. Unless you wanna join the team, don't open the link!::https://discord.gg/yhCdjabVKT::0xFF044CD2
 Guest Teams
 SMB Funk Mix Team::mariomix::Original composers of "Wrong Warp". Let's-a go~!::https://gamebanana.com/mods/346928::0xFFb53121
 Vs SONIC.EXE Team::sonexe::Original composers of "Forestall Desire", "Fight or Flight" and "Too Slow Encore". READY FOR ROUND 2?::https://gamebanana.com/mods/316022::0xFF0257b5
@@ -36,6 +34,12 @@ VS Ron Team::ron::Original composers of "Difficult Powers".\nThis folder boy's a
 VS Impostor Team::sus::Original composers of "Double Kill".\nWhen the imposter is sus!::https://gamebanana.com/mods/55652::0xFFbb2d30
 Mistful Crimson Morning Team::squid::Original composers of "Satisfaction".\nSquidward's seen better days...::https://gamebanana.com/mods/387663::0xFF67adaf
 VS Shaggy Team::shag::Original composers of "Thunderstorm".\nZoinks, Shaggy's got some big attitude now!::https://gamebanana.com/mods/284121::0xFF07b00f
-Funk Guys - Ultimate Knockout Team::fall::Original composers of "Final Round".\nDoes anyone remember Fall Guys?::https://gamebanana.com/mods/408920::0xFF6d5e85
+Funk Guys Team::fall::Original composers of "Final Round".\nDoes anyone remember Fall Guys?::https://gamebanana.com/mods/408920::0xFF6d5e85
+Glitch Funkin' Team::smg4::Authors of the SMG4 Sprites.::https://gamebanana.com/mods/524049::0xFF0000FF
+Digital Funkin' Team::digitalfunk::Authors of the Pomni and Jax Sprites.::https://gamebanana.com/mods/511377::0xFFff4794
+Join the Discord Server!
+Discord Server::discord::The Official VS Casagrandes Server for updates and announcements. Unless you wanna join the team, don't open the link!::https://discord.gg/yhCdjabVKT::0xFF044CD2
+Special Thanks
 SMG4::smg4::Creator of the SMG4 Series and Glitch Productions.\nWARNING: anime arcs ahead!::https://www.youtube.com/@SMG4::0xFF0000FF
 Gooseworx::goose::Creator of the Amazing Digital Circus.\nWhy is the UTTP against this user...?::https://www.youtube.com/@Gooseworx::0xFFb692fe
+Nesstalgia::nesstalgia::Thank you for the positive feedback!::https://www.youtube.com/@Nesstalgia::0xFF31f7e7

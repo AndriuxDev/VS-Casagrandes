@@ -166,6 +166,10 @@ function onUpdate(elapsed)
         setProperty('rats.alpha', 1);
         setProperty('fcstat.alpha', 1);
     end
+
+    if keyboardJustPressed("ENTER") and isStoryMode then
+        debugPrint("Press [P] to pause!");
+    end
 end
 
 function onCountdownTick(swagCounter)
@@ -180,6 +184,12 @@ function onCountdownTick(swagCounter)
         else
             doTweenY("hud1Y", "hud1", 0, 1, "sineOut")
             doTweenY("hud2Y", "hud2", 0, 1, "sineOut")
+        end
+
+        if not isStoryMode then
+            debugPrint("Press [ENTER] to pause!");
+        else
+            debugPrint("Press [P] to pause!");
         end
     end
 end

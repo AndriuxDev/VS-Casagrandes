@@ -13,10 +13,17 @@ function onCreate()
     canPause = songName ~= "Satisfaction"
 end
 
-function onUpdatePost(elapsed)
-    if canPause and keyJustPressed('pause') then
-        playSound('pause/pause')
-        openCustomSubstate('MMpauseMenu', true)
+function onUpdatePost(elapsed) --Checks if you're in Story Mode or Freeplay mode.
+    if isStoryMode then
+        if canPause and keyboardJustPressed("P") then --Story Mode
+            playSound('pause/pause')
+            openCustomSubstate('MMpauseMenu', true)
+        end
+    else
+        if canPause and keyJustPressed('pause') then --Freeplay Mode
+            playSound('pause/pause')
+            openCustomSubstate('MMpauseMenu', true)
+        end
     end
 end
 
